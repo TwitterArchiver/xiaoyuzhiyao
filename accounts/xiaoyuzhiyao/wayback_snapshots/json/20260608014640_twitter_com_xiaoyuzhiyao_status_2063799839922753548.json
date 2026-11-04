@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2063643345059238018",
+    "created_at": "2026-06-08T01:46:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T02:46:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063799839922753548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2062376081420931073",
+          "start": 0,
+          "username": "YuKi520qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063799839922753548",
+    "in_reply_to_user_id": "2062376081420931073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063643345059238018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuKi520qaq 死性不改"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2063643345059238018",
+        "created_at": "2026-06-08T01:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063799839922753548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2062376081420931073",
+              "start": 0,
+              "username": "YuKi520qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063799839922753548",
+        "in_reply_to_user_id": "2062376081420931073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063643345059238018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520qaq 死性不改"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062376081420931073",
+        "conversation_id": "2063643345059238018",
+        "created_at": "2026-06-07T15:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063643345059238018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063643345059238018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026.6.8\n今日测试内容：\n金刚烷胺15t\n美金刚10t\n酒精（40度鸡尾酒两杯）\n\n可能出现的效果：呼吸困难 意识模糊 幻觉 站立不稳 直立性低血压 谵妄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhaoqing, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  112.45972,
+                  23.05116
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhaoqing",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜实习圆角｜",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013909089936703488/fZiSnWgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4394,
+          "following_count": 25,
+          "like_count": 379,
+          "listed_count": 15,
+          "media_count": 170,
+          "tweet_count": 657
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-04T03:30:46.000Z",
+        "description": "立志成为小花酱那样受万人敬仰的圆角妹\n药娘（MTF）（私わ中国がらかわいい男の子です、よろしくお願いします!/二次元/美食/可爱的东西/ maimaidx/想要补偿@xiaoyuzhiyao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          }
+        },
+        "id": "2062376081420931073",
+        "location": "北京 上海 广州 日本 泰国",
+        "name": "樱井千雪🏳️‍⚧️🍥（二代目）",
+        "pinned_tweet_id": "2063411984994025498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063108763482206208/kvAB8WDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 36,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 34
+        },
+        "username": "YuKi520qaq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1977621701451231655",
+    "created_at": "2025-10-13T11:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T12:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977704445916963178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1944808086230663168",
+          "start": 0,
+          "username": "ZongweiLi74489"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977704445916963178",
+    "in_reply_to_user_id": "1944808086230663168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977703097712435414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZongweiLi74489 50吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1977621701451231655",
+        "created_at": "2025-10-13T11:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T12:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977704445916963178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1944808086230663168",
+              "start": 0,
+              "username": "ZongweiLi74489"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977704445916963178",
+        "in_reply_to_user_id": "1944808086230663168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977703097712435414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZongweiLi74489 50吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944808086230663168",
+        "conversation_id": "1977621701451231655",
+        "created_at": "2025-10-13T11:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T12:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977703097712435414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977703097712435414",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977621701451231655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 号马吃😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜🚪58 尽量都会回复｜169 42.5kg｜b表演跟b边缘能不能去死啊我草｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "misakixyg"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976516194791460864/1260YPVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 13,
+          "like_count": 335,
+          "listed_count": 9,
+          "media_count": 135,
+          "tweet_count": 550
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T17:16:14.000Z",
+        "description": "6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ghh68.com",
+                "end": 23,
+                "expanded_url": "http://ghh68.com",
+                "start": 0,
+                "url": "https://t.co/W5krIrrQ7B"
+              }
+            ]
+          }
+        },
+        "id": "1944808086230663168",
+        "location": "Portland, OR",
+        "name": "申公豹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973420008593301507/n9045iWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 18,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/W5krIrrQ7B",
+        "username": "ZongweiLi74489",
+        "verified": false
+      }
+    ]
+  }
+}

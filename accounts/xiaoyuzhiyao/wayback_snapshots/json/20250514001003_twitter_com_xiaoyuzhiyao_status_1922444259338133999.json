@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1921643791108243464",
+    "created_at": "2025-05-14T00:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T01:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922444259338133999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1148395922906177536",
+          "start": 0,
+          "username": "Frank_down"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922444259338133999",
+    "in_reply_to_user_id": "1148395922906177536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921643791108243464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Frank_down 追追我的 我是兄弟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1921643787740127232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqsM1_kWIAAxXN_.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1921643786134007808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqsM15lasAAxSmC.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1921643791108243464",
+        "created_at": "2025-05-14T00:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-14T01:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922444259338133999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1148395922906177536",
+              "start": 0,
+              "username": "Frank_down"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922444259338133999",
+        "in_reply_to_user_id": "1148395922906177536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921643791108243464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Frank_down 追追我的 我是兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921643787740127232",
+            "3_1921643786134007808"
+          ]
+        },
+        "author_id": "1148395922906177536",
+        "conversation_id": "1921643791108243464",
+        "created_at": "2025-05-11T19:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T20:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921643791108243464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0N278TK2OE",
+              "end": 32,
+              "expanded_url": "https://x.com/Frank_down/status/1921643791108243464/photo/1",
+              "media_key": "3_1921643787740127232",
+              "start": 9,
+              "url": "https://t.co/0N278TK2OE"
+            },
+            {
+              "display_url": "pic.x.com/0N278TK2OE",
+              "end": 32,
+              "expanded_url": "https://x.com/Frank_down/status/1921643791108243464/photo/1",
+              "media_key": "3_1921643786134007808",
+              "start": 9,
+              "url": "https://t.co/0N278TK2OE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921643791108243464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恋爱故事（本人） https://t.co/0N278TK2OE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜没有🚪 尽量都会回复｜169 45kg｜最好的女儿@misakixyg｜唯一的🥰人@zhileiqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "misakixyg"
+              },
+              {
+                "end": 54,
+                "start": 44,
+                "username": "zhileiqwq"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 9,
+          "like_count": 305,
+          "listed_count": 6,
+          "media_count": 88,
+          "tweet_count": 404
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-09T00:58:18.000Z",
+        "description": "我会记录自己赚下来的每一个铜板，发誓要白手起家赚一百万，加油！",
+        "id": "1148395922906177536",
+        "location": "四海为家",
+        "name": "阿空空的赚钱日记",
+        "pinned_tweet_id": "1921643791108243464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914899218336243712/6zzHeQUh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 250,
+          "like_count": 1427,
+          "listed_count": 3,
+          "media_count": 519,
+          "tweet_count": 3484
+        },
+        "username": "Frank_down",
+        "verified": false
+      }
+    ]
+  }
+}

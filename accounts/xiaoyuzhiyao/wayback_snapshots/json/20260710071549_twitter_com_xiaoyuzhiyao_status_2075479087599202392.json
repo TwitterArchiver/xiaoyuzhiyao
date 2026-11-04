@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2075280274192265294",
+    "created_at": "2026-07-10T07:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075479087599202392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892143528140267520",
+          "start": 0,
+          "username": "fufu1367612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075479087599202392",
+    "in_reply_to_user_id": "1892143528140267520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075389440965656708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufu1367612 缺个LTE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2075280274192265294",
+        "created_at": "2026-07-10T07:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075479087599202392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892143528140267520",
+              "start": 0,
+              "username": "fufu1367612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075479087599202392",
+        "in_reply_to_user_id": "1892143528140267520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075389440965656708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufu1367612 缺个LTE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892143528140267520",
+        "conversation_id": "2075280274192265294",
+        "created_at": "2026-07-10T01:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075389440965656708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075389440965656708",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075280274192265294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 幻x就1.3kg，算不算呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜169 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013909089936703488/fZiSnWgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4419,
+          "following_count": 28,
+          "like_count": 379,
+          "listed_count": 13,
+          "media_count": 176,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-19T09:25:57.000Z",
+        "description": "我爱fufu！\n分享23岁的退休生活\n长住酒店的酒店爱好者\n全职交易员\n只会hello world的cs本\n舒适旅行专家\n电子硬件发烧友",
+        "id": "1892143528140267520",
+        "name": "0xfufu",
+        "pinned_tweet_id": "1931049737731616886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892143640912543744/-Fx-HI81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 393,
+          "like_count": 6552,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 2614
+        },
+        "url": "",
+        "username": "fufu1367612",
+        "verified": true
+      }
+    ]
+  }
+}

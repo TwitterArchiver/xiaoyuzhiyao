@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102680415991672832",
+        "3_2102680416042065920",
+        "3_2102680416071319552"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "conversation_id": "2102680425399534069",
+    "created_at": "2026-09-23T08:44:13.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T09:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102680425399534069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RpcINybFP7",
+          "end": 39,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2102680425399534069/photo/1",
+          "media_key": "3_2102680415991672832",
+          "start": 16,
+          "url": "https://t.co/RpcINybFP7"
+        },
+        {
+          "display_url": "pic.x.com/RpcINybFP7",
+          "end": 39,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2102680425399534069/photo/1",
+          "media_key": "3_2102680416042065920",
+          "start": 16,
+          "url": "https://t.co/RpcINybFP7"
+        },
+        {
+          "display_url": "pic.x.com/RpcINybFP7",
+          "end": 39,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2102680425399534069/photo/1",
+          "media_key": "3_2102680416071319552",
+          "start": 16,
+          "url": "https://t.co/RpcINybFP7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102680425399534069",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102680415991672832"
+      },
+      {
+        "media_key": "3_2102680416042065920"
+      },
+      {
+        "media_key": "3_2102680416071319552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "侧马尾跟簪子 都是人妻发型来的 https://t.co/RpcINybFP7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_2102680415991672832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS44sqdasAAkF71.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102680416042065920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS44sqpboAAlQPW.jpg",
+        "width": 943
+      },
+      {
+        "height": 1856,
+        "media_key": "3_2102680416071319552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS44sqwaAAABFBG.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102680415991672832",
+            "3_2102680416042065920",
+            "3_2102680416071319552"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "conversation_id": "2102680425399534069",
+        "created_at": "2026-09-23T08:44:13.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102680425399534069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpcINybFP7",
+              "end": 39,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2102680425399534069/photo/1",
+              "media_key": "3_2102680415991672832",
+              "start": 16,
+              "url": "https://t.co/RpcINybFP7"
+            },
+            {
+              "display_url": "pic.x.com/RpcINybFP7",
+              "end": 39,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2102680425399534069/photo/1",
+              "media_key": "3_2102680416042065920",
+              "start": 16,
+              "url": "https://t.co/RpcINybFP7"
+            },
+            {
+              "display_url": "pic.x.com/RpcINybFP7",
+              "end": 39,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2102680425399534069/photo/1",
+              "media_key": "3_2102680416071319552",
+              "start": 16,
+              "url": "https://t.co/RpcINybFP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102680425399534069",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102680415991672832"
+          },
+          {
+            "media_key": "3_2102680416042065920"
+          },
+          {
+            "media_key": "3_2102680416071319552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "侧马尾跟簪子 都是人妻发型来的 https://t.co/RpcINybFP7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangyuan, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  105.823,
+                  32.44202
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangyuan",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "小男娘｜心/生理性别女｜xxy 但是手术了\n好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜172 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n理学心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2102680425399534069",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767820111602503680/1780900504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082082719748829184/BjzF9OzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 22,
+          "like_count": 398,
+          "listed_count": 14,
+          "media_count": 202,
+          "tweet_count": 734
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

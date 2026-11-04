@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1904792408292024369",
+    "created_at": "2025-03-26T07:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T08:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904798189078585800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1874402147103838208",
+          "start": 0,
+          "username": "wanwanblaster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904798189078585800",
+    "in_reply_to_user_id": "1874402147103838208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904796460732023040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanwanblaster 是的 我不想把外卖记录都给全部弄出来 其实你花也花了很多钱 虽然你没带走 但是在我这我还给你配了电脑 我实在是对你不差。我说这些只是意思是你大可以匿名攻击我没关系 你这样对你不好 我还是希望你能自己幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1904792408292024369",
+        "created_at": "2025-03-26T07:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T08:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904798189078585800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1874402147103838208",
+              "start": 0,
+              "username": "wanwanblaster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904798189078585800",
+        "in_reply_to_user_id": "1874402147103838208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904796460732023040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanwanblaster 是的 我不想把外卖记录都给全部弄出来 其实你花也花了很多钱 虽然你没带走 但是在我这我还给你配了电脑 我实在是对你不差。我说这些只是意思是你大可以匿名攻击我没关系 你这样对你不好 我还是希望你能自己幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874402147103838208",
+        "conversation_id": "1904792408292024369",
+        "created_at": "2025-03-26T07:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T08:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904796460732023040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904796460732023040",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904792408292024369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 我当时跟你吃不饱饭是因为什么呢 我钱都转给你的 东西卖掉了 给你买了动补 动补卖掉又买了饰品 我要是自己在家里我可能吃不饱饭？我跑出来跟你过苦日子？每餐都是你提供的，钱全转给你了一句不提吗？“我没安全感我来管钱”是不是你的原话，花哪去了呢，难不成我花的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "没有🚪 尽量都会回复｜169 43kg 男娘小雨是也｜唯一的🥰人@zhileiqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "zhileiqwq"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "pinned_tweet_id": "1873401816970592645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873256786213650434/zACAyapH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 3,
+          "like_count": 266,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 309
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T10:28:02.000Z",
+        "description": "世界破破烂烂 丸丸缝缝补补 ｜ 淡圈专心cs ｜属性brat ｜mtx小证含糖 ｜丸丸爱你们所有人 mua",
+        "id": "1874402147103838208",
+        "location": "Atlanta, GA",
+        "name": "丸丸",
+        "pinned_tweet_id": "1904631538928763012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902395991061602304/kx1zCiKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 72,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 205
+        },
+        "username": "wanwanblaster",
+        "verified": false
+      }
+    ]
+  }
+}

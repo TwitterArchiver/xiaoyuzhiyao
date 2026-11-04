@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1956288848087920664",
+    "created_at": "2025-08-16T09:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T10:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956646742134538286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1918295029757759488",
+          "start": 0,
+          "username": "ffzzovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956646742134538286",
+    "in_reply_to_user_id": "1918295029757759488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956288848087920664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ffzzovo ？这是啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1956288844883791872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYiVu1bkAALYq3.jpg",
+        "width": 1328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1956288848087920664",
+        "created_at": "2025-08-16T09:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T10:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956646742134538286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1918295029757759488",
+              "start": 0,
+              "username": "ffzzovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956646742134538286",
+        "in_reply_to_user_id": "1918295029757759488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956288848087920664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ffzzovo ？这是啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956288844883791872"
+          ]
+        },
+        "author_id": "1918295029757759488",
+        "conversation_id": "1956288848087920664",
+        "created_at": "2025-08-15T09:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956288848087920664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O8Mghcx9FT",
+              "end": 37,
+              "expanded_url": "https://x.com/ffzzovo/status/1956288848087920664/photo/1",
+              "media_key": "3_1956288844883791872",
+              "start": 14,
+              "url": "https://t.co/O8Mghcx9FT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956288848087920664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11063,
+          "like_count": 114,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "泥门的那个汁可以吹泡泡吗🤔 https://t.co/O8Mghcx9FT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜ 没有🚪 尽量都会回复｜169 45kg｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜你应该好好对我@Yuki520OwO｜一起在病床醒来@xinyuQWQzhilei｜（ADHD）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "misakixyg"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Yuki520OwO"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "xinyuQWQzhilei"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2831,
+          "following_count": 10,
+          "like_count": 300,
+          "listed_count": 8,
+          "media_count": 110,
+          "tweet_count": 480
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T13:22:41.000Z",
+        "description": "2010.11.10🍰 | \n182.8/60🌳 | \nShanghai📍| \n2025.5.8🍥 | \nMtX❤️ | \n使命召唤🤜 phigros👆👆 |\nfo窝的人都变美/变帅/变可爱",
+        "id": "1918295029757759488",
+        "location": "中国上海",
+        "name": "ffzz🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954933271055486976/QIuiQ5DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 485,
+          "like_count": 2627,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 308
+        },
+        "username": "ffzzovo",
+        "verified": false
+      }
+    ]
+  }
+}

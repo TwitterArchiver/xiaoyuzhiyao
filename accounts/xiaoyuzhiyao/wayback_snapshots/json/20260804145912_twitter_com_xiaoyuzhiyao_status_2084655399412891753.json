@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2076267827720520072",
+    "created_at": "2026-08-04T14:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084655399412891753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1313765436895326209",
+          "start": 0,
+          "username": "Rutilate27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084655399412891753",
+    "in_reply_to_user_id": "1313765436895326209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084574864837632111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rutilate27 国行？国航吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2076267827720520072",
+        "created_at": "2026-08-04T14:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084655399412891753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1313765436895326209",
+              "start": 0,
+              "username": "Rutilate27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084655399412891753",
+        "in_reply_to_user_id": "1313765436895326209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084574864837632111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rutilate27 国行？国航吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313765436895326209",
+        "conversation_id": "2076267827720520072",
+        "created_at": "2026-08-04T09:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084574864837632111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084574864837632111",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076267827720520072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 国行的终白羡慕啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhaoqing, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  112.45972,
+                  23.05116
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhaoqing",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜169 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082082719748829184/BjzF9OzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4412,
+          "following_count": 27,
+          "like_count": 388,
+          "listed_count": 14,
+          "media_count": 187,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-07T08:57:53.000Z",
+        "description": "可贴可rua，性格温良，实事求是，不键政，爱好猎奇，集抽象于一身，业余按快门，上学忙碌中，真假自辨。｜｜ENTJ- A ｜太阳天蝎｜月亮水瓶｜上升处女 ｜｜记忆储藏瓶，自动化专业，想从事世界模型或TA｜｜vrchat：百变小团子｜｜人像，但孩子只想风光人像或棚拍了，欢迎和我自驾旅拍｜｜我需要实习需要工作😭",
+        "id": "1313765436895326209",
+        "location": "IP 归属地: 蝶儿家",
+        "name": "Rutilate",
+        "pinned_tweet_id": "1621560801927770114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792102253379440640/TS2Q5ARp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 335,
+          "like_count": 2585,
+          "listed_count": 1,
+          "media_count": 846,
+          "tweet_count": 1862
+        },
+        "url": "",
+        "username": "Rutilate27",
+        "verified": true
+      }
+    ]
+  }
+}

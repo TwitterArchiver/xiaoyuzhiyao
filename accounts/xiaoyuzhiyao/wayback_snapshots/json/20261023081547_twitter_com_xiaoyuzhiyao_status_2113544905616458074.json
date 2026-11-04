@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2113508673230373094",
+    "created_at": "2026-10-23T08:15:47.000Z",
+    "display_text_range": [
+      21,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-23T09:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2113544905616458074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1485876303282638848",
+          "start": 0,
+          "username": "xiaonmage"
+        },
+        {
+          "end": 20,
+          "id": "845296796469358594",
+          "start": 11,
+          "username": "Bluke520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2113544905616458074",
+    "in_reply_to_user_id": "1485876303282638848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2113542538564874269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaonmage @Bluke520 我准备单程票过去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2113508673230373094",
+        "created_at": "2026-10-23T08:15:47.000Z",
+        "display_text_range": [
+          21,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-23T09:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2113544905616458074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1485876303282638848",
+              "start": 0,
+              "username": "xiaonmage"
+            },
+            {
+              "end": 20,
+              "id": "845296796469358594",
+              "start": 11,
+              "username": "Bluke520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2113544905616458074",
+        "in_reply_to_user_id": "1485876303282638848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2113542538564874269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaonmage @Bluke520 我准备单程票过去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485876303282638848",
+        "conversation_id": "2113508673230373094",
+        "created_at": "2026-10-23T08:06:23.000Z",
+        "display_text_range": [
+          24,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-23T09:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2113542538564874269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            },
+            {
+              "end": 23,
+              "id": "845296796469358594",
+              "start": 14,
+              "username": "Bluke520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2113542538564874269",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2113541033447612500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao @Bluke520 都去了马上三年了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangyuan, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  105.823,
+                  32.44202
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangyuan",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "小男娘｜心/生理性别女｜xxy 但是手术了\n好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜172 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n理学心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2113544905616458074",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767820111602503680/1792611677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082082719748829184/BjzF9OzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4171,
+          "following_count": 21,
+          "like_count": 401,
+          "listed_count": 14,
+          "media_count": 208,
+          "tweet_count": 748
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-25T07:25:28.000Z",
+        "description": "",
+        "id": "1485876303282638848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2113542538564874269",
+        "name": "小王哥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630375142378418176/xnYkcnWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 166,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "xiaonmage",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-24T15:30:35.000Z",
+        "description": "内容创作者｜分享真实落地经验与实操干货｜前千人团队负责人\nAt the same time, I am also an ordinary person who strives for freedom and democracy.",
+        "id": "845296796469358594",
+        "is_identity_verified": true,
+        "location": "香港",
+        "most_recent_tweet_id": "2113544797017477555",
+        "name": "Bluke Wu",
+        "pinned_tweet_id": "2056948804092596239",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/845296796469358594/1791277522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072918641570689025/vP2FMFXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7640,
+          "following_count": 2459,
+          "like_count": 14220,
+          "listed_count": 23,
+          "media_count": 160,
+          "tweet_count": 9314
+        },
+        "url": "",
+        "username": "Bluke520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

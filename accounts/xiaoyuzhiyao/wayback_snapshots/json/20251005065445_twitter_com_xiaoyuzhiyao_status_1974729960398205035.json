@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1974192001693393049",
+    "created_at": "2025-10-05T06:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T07:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974729960398205035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164467672819499008",
+          "start": 0,
+          "username": "whitelate0001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974729960398205035",
+    "in_reply_to_user_id": "1164467672819499008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974728797183504387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitelate0001 it男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1974192001693393049",
+        "created_at": "2025-10-05T06:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T07:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974729960398205035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164467672819499008",
+              "start": 0,
+              "username": "whitelate0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974729960398205035",
+        "in_reply_to_user_id": "1164467672819499008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974728797183504387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelate0001 it男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164467672819499008",
+        "conversation_id": "1974192001693393049",
+        "created_at": "2025-10-05T06:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T07:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974728797183504387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974728797183504387",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974192001693393049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 盲猜男性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜🚪58 尽量都会回复｜169 42.5kg｜b表演跟b边缘能不能去死啊我草｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "misakixyg"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3294,
+          "following_count": 13,
+          "like_count": 328,
+          "listed_count": 8,
+          "media_count": 129,
+          "tweet_count": 530
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-22T09:22:03.000Z",
+        "description": "China Patriot from Taiwan🇹🇼 | Supporter of Liberty/Democracy/Limited-Market Economy/Socialism/Leftism/Scientism | Glory to China🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳",
+        "id": "1164467672819499008",
+        "location": "中華民國台灣省",
+        "name": "Whitelate🇹🇼🇵🇸🇺🇦🇨🇳🇨🇳🇨🇳🇨🇳🇨🇳",
+        "pinned_tweet_id": "1941512418771017841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937184796515450880/tH6NHIrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 449,
+          "like_count": 3596,
+          "listed_count": 2,
+          "media_count": 484,
+          "tweet_count": 5390
+        },
+        "username": "whitelate0001",
+        "verified": false
+      }
+    ]
+  }
+}

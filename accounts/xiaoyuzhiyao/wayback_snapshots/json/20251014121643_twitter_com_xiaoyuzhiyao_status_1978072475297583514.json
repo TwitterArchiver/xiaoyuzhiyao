@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978072468377264128"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "conversation_id": "1978072475297583514",
+    "created_at": "2025-10-14T12:16:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T13:16:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978072475297583514"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p7mrtWGQ3I",
+          "end": 31,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1978072475297583514/photo/1",
+          "media_key": "3_1978072468377264128",
+          "start": 8,
+          "url": "https://t.co/p7mrtWGQ3I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978072475297583514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想脱吗 在北京 https://t.co/p7mrtWGQ3I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1978072468377264128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3OGbgGbYAAw71A.jpg",
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978072468377264128"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "conversation_id": "1978072475297583514",
+        "created_at": "2025-10-14T12:16:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T13:16:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978072475297583514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7mrtWGQ3I",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1978072475297583514/photo/1",
+              "media_key": "3_1978072468377264128",
+              "start": 8,
+              "url": "https://t.co/p7mrtWGQ3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978072475297583514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想脱吗 在北京 https://t.co/p7mrtWGQ3I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜🚪58 尽量都会回复｜169 42.5kg｜b表演跟b边缘能不能去死啊我草｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "misakixyg"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976516194791460864/1260YPVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3988,
+          "following_count": 14,
+          "like_count": 335,
+          "listed_count": 11,
+          "media_count": 136,
+          "tweet_count": 555
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056682229460516864"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "conversation_id": "2056682378198946129",
+    "created_at": "2026-05-19T10:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T11:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056682378198946129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/furTtmw1D3",
+          "end": 35,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2056682378198946129/video/1",
+          "media_key": "13_2056682229460516864",
+          "start": 12,
+          "url": "https://t.co/furTtmw1D3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056682378198946129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "您好 这是我的托运行李 https://t.co/furTtmw1D3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10266,
+        "height": 3840,
+        "media_key": "13_2056682229460516864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056682229460516864/img/3l8OPQlKMT6pTEcg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056682229460516864/vid/avc1/720x1280/wb4-0wokzf-5_Cf2.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056682229460516864/vid/avc1/320x568/kBH0O93AoRzPX0ai.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056682229460516864/vid/avc1/2160x3840/_MJaAVsD5ZS4w88q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056682229460516864/vid/avc1/480x852/BZeL5XsaTTSmIfsw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056682229460516864/pl/LfURXwpFQQRm6DF-.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056682229460516864/vid/avc1/1080x1920/zVKpixmiSrLUTa8S.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056682229460516864"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "conversation_id": "2056682378198946129",
+        "created_at": "2026-05-19T10:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056682378198946129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/furTtmw1D3",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2056682378198946129/video/1",
+              "media_key": "13_2056682229460516864",
+              "start": 12,
+              "url": "https://t.co/furTtmw1D3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056682378198946129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "您好 这是我的托运行李 https://t.co/furTtmw1D3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhaoqing, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  112.45972,
+                  23.05116
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhaoqing",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜实习圆角｜",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013909089936703488/fZiSnWgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4398,
+          "following_count": 23,
+          "like_count": 375,
+          "listed_count": 15,
+          "media_count": 166,
+          "tweet_count": 644
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      }
+    ]
+  }
+}

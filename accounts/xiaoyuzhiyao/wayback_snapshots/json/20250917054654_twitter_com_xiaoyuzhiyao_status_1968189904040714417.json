@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968189891348664322"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1967984128416153814",
+    "created_at": "2025-09-17T05:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968189904040714417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        },
+        {
+          "end": 30,
+          "id": "1791838219363082240",
+          "start": 16,
+          "username": "KawashimaAya_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zoXMmV1yoe",
+          "end": 66,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1968189904040714417/photo/1",
+          "media_key": "3_1968189891348664322",
+          "start": 43,
+          "url": "https://t.co/zoXMmV1yoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968189904040714417",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968189653124780033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 @KawashimaAya_ 那个我主卧也有这么一块 https://t.co/zoXMmV1yoe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968189891348664322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1BqRzxaEAIy3go.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968189891348664322"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967984128416153814",
+        "created_at": "2025-09-17T05:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968189904040714417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            },
+            {
+              "end": 30,
+              "id": "1791838219363082240",
+              "start": 16,
+              "username": "KawashimaAya_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zoXMmV1yoe",
+              "end": 66,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1968189904040714417/photo/1",
+              "media_key": "3_1968189891348664322",
+              "start": 43,
+              "url": "https://t.co/zoXMmV1yoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968189904040714417",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968189653124780033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 @KawashimaAya_ 那个我主卧也有这么一块 https://t.co/zoXMmV1yoe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865419581206208512",
+        "conversation_id": "1967984128416153814",
+        "created_at": "2025-09-17T05:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968189653124780033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791838219363082240",
+              "start": 0,
+              "username": "KawashimaAya_"
+            },
+            {
+              "end": 28,
+              "id": "1767820111602503680",
+              "start": 15,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968189653124780033",
+        "in_reply_to_user_id": "1791838219363082240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968182606518006271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawashimaAya_ @xiaoyuzhiyao 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜🚪58  尽量都会回复｜169 42.5kg｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "misakixyg"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3188,
+          "following_count": 8,
+          "like_count": 312,
+          "listed_count": 8,
+          "media_count": 120,
+          "tweet_count": 509
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6965,
+          "following_count": 6465,
+          "like_count": 22897,
+          "listed_count": 15,
+          "media_count": 4687,
+          "tweet_count": 32960
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T14:28:24.000Z",
+        "description": "泥嚎！这是川島哎呀桑 可以叫我阿绫！生理性别是男的 目前是十九岁！Protestant✝️大概是上海人 想和大家交朋友！喜欢猫猫和玉米！最近在学编程 对web3比较感兴趣 欢迎大家来找我聊天 ！Ask me anything！",
+        "id": "1791838219363082240",
+        "location": "上海",
+        "name": "KawashimaAya",
+        "pinned_tweet_id": "1892170222075105356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885707898216738816/myZp0CH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 181,
+          "like_count": 532,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1038
+        },
+        "username": "KawashimaAya_",
+        "verified": false
+      }
+    ]
+  }
+}

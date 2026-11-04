@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1985535524988461056",
+        "13_1985535525080776704"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "conversation_id": "1985535581829636159",
+    "created_at": "2025-11-04T02:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T03:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985535581829636159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ACclN1wLit",
+          "end": 34,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1985535581829636159/video/1",
+          "media_key": "13_1985535524988461056",
+          "start": 11,
+          "url": "https://t.co/ACclN1wLit"
+        },
+        {
+          "display_url": "pic.x.com/ACclN1wLit",
+          "end": 34,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1985535581829636159/video/1",
+          "media_key": "13_1985535525080776704",
+          "start": 11,
+          "url": "https://t.co/ACclN1wLit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985535581829636159",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小男娘第一次女装出街 https://t.co/ACclN1wLit"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1963,
+        "height": 1280,
+        "media_key": "13_1985535524988461056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985535524988461056/img/QpHEwQiRuiVwFijJ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985535524988461056/vid/avc1/320x568/CxXMdEjPCI-knLIF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985535524988461056/vid/avc1/480x852/YcKd5zcg8NCNl3h3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985535524988461056/vid/avc1/720x1280/cTTAo9sMeGJQ9NAS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985535524988461056/pl/Pe4VUsOUKa_NxUqK.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 2261,
+        "height": 1280,
+        "media_key": "13_1985535525080776704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985535525080776704/img/NO_pGIzz3HQtljdX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985535525080776704/vid/avc1/320x568/wfdFNXDznutgabcS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985535525080776704/vid/avc1/480x852/8_IA9zd__sgUAVIp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985535525080776704/vid/avc1/720x1280/a54sYJHL5hLHlrGt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985535525080776704/pl/QQ4Z1BzrJjPDilDy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985535524988461056",
+            "13_1985535525080776704"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "conversation_id": "1985535581829636159",
+        "created_at": "2025-11-04T02:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T03:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985535581829636159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACclN1wLit",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1985535581829636159/video/1",
+              "media_key": "13_1985535524988461056",
+              "start": 11,
+              "url": "https://t.co/ACclN1wLit"
+            },
+            {
+              "display_url": "pic.x.com/ACclN1wLit",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1985535581829636159/video/1",
+              "media_key": "13_1985535525080776704",
+              "start": 11,
+              "url": "https://t.co/ACclN1wLit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985535581829636159",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小男娘第一次女装出街 https://t.co/ACclN1wLit"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜🚪58 尽量都会回复｜169 42.5kg｜b表演跟b边缘能不能去死啊我草｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "misakixyg"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976516194791460864/1260YPVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4584,
+          "following_count": 18,
+          "like_count": 341,
+          "listed_count": 14,
+          "media_count": 142,
+          "tweet_count": 572
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2014162499445411925",
+    "created_at": "2026-01-22T02:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T03:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014169247933440419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653259411022856193",
+          "start": 0,
+          "username": "anyuwang537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014169247933440419",
+    "in_reply_to_user_id": "1653259411022856193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014163483642696044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anyuwang537 有老板吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2014162499445411925",
+        "created_at": "2026-01-22T02:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014169247933440419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653259411022856193",
+              "start": 0,
+              "username": "anyuwang537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014169247933440419",
+        "in_reply_to_user_id": "1653259411022856193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014163483642696044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anyuwang537 有老板吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653259411022856193",
+        "conversation_id": "2014162499445411925",
+        "created_at": "2026-01-22T02:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014163483642696044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014163483642696044",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014162499445411925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 飞西安宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜实习圆角",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013909089936703488/fZiSnWgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4517,
+          "following_count": 18,
+          "like_count": 357,
+          "listed_count": 16,
+          "media_count": 154,
+          "tweet_count": 609
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-02T04:45:42.000Z",
+        "description": "07  173/112  iiii/i  是个入门cd，还请大家多多关照，无聊可以来找我聊天！喜欢你的话可以加微信哦！",
+        "id": "1653259411022856193",
+        "location": "你旁边",
+        "name": "魔法少女小月樱🍥🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958989479231868928/FzTNfwiY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 505,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 112
+        },
+        "username": "anyuwang537",
+        "verified": false
+      }
+    ]
+  }
+}

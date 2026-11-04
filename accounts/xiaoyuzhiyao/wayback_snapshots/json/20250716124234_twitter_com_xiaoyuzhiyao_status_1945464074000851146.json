@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1945350256008552560",
+    "created_at": "2025-07-16T12:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T13:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945464074000851146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1513151909217341442",
+          "start": 0,
+          "username": "Daesjck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945464074000851146",
+    "in_reply_to_user_id": "1513151909217341442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945428257119285642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Daesjck 确实得来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1945350256008552560",
+        "created_at": "2025-07-16T12:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T13:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945464074000851146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1513151909217341442",
+              "start": 0,
+              "username": "Daesjck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945464074000851146",
+        "in_reply_to_user_id": "1513151909217341442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945428257119285642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Daesjck 确实得来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513151909217341442",
+        "conversation_id": "1945350256008552560",
+        "created_at": "2025-07-16T10:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T11:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945428257119285642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945428257119285642",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945350256008552560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 活得成就：来硬的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜ 没有🚪 尽量都会回复｜169 45kg｜希望有人记得我最好的女儿@misakixyg｜你应该好好对我@Yuki520OwO｜一起在病床醒来@xinyuQWQzhilei｜（ADHD）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "misakixyg"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Yuki520OwO"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "xinyuQWQzhilei"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 8,
+          "like_count": 323,
+          "listed_count": 7,
+          "media_count": 109,
+          "tweet_count": 467
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T13:48:39.000Z",
+        "description": "放轻松/男/社交的悍匪/健身💪🏻/骑车🚲/FPS🎮/撸猫🐱/盆栽🪴/面具🎭/EDM电音⚡/人机/南京白敬亭/不约/",
+        "id": "1513151909217341442",
+        "name": "假面悍匪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929180972190429185/zS6_DUU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 147,
+          "like_count": 2572,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 4769
+        },
+        "username": "Daesjck",
+        "verified": false
+      }
+    ]
+  }
+}

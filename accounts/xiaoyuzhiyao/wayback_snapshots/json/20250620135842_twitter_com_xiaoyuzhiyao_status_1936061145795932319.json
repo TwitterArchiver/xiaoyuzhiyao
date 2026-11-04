@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1936061109301088256"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "conversation_id": "1936061145795932319",
+    "created_at": "2025-06-20T13:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T14:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936061145795932319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oSHtRDzg4Q",
+          "end": 36,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1936061145795932319/photo/1",
+          "media_key": "3_1936061109301088256",
+          "start": 13,
+          "url": "https://t.co/oSHtRDzg4Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936061145795932319",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "屌丝的一生从打开p站开始 https://t.co/oSHtRDzg4Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1936061109301088256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt5FUjtXEAA5Plh.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936061109301088256"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "conversation_id": "1936061145795932319",
+        "created_at": "2025-06-20T13:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T14:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936061145795932319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSHtRDzg4Q",
+              "end": 36,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1936061145795932319/photo/1",
+              "media_key": "3_1936061109301088256",
+              "start": 13,
+              "url": "https://t.co/oSHtRDzg4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936061145795932319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "屌丝的一生从打开p站开始 https://t.co/oSHtRDzg4Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜ 没有🚪 尽量都会回复｜169 45kg｜最好的女儿@misakixyg｜@xinyuQWQzhilei｜A症患者（ADHD/多动症）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "misakixyg"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "xinyuQWQzhilei"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 8,
+          "like_count": 315,
+          "listed_count": 7,
+          "media_count": 102,
+          "tweet_count": 449
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1904792408292024369",
+    "created_at": "2025-03-26T07:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T08:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904797751470416379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1874402147103838208",
+          "start": 0,
+          "username": "wanwanblaster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904797751470416379",
+    "in_reply_to_user_id": "1874402147103838208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "是的我是母狗 我没有说任何不承认的事实 这张截图那时候我没有任何的对象 我只是希望\n1 你能客观一点 不要把自己摘出来太清 我的截图只是对于你断章取义的补充 我的罪行我全部承认\n2 我希望你别拘泥于这些事情 我希望你能去当正常女孩子找自己的幸福\n3 我希望对于我贱种这件事 影响不要到我身边的人 他们无辜"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904796778802930162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanwanblaster 是的我是母狗 我没有说任何不承认的事实 这张截图那时候我没有任何的对象 我只是希望\n1 你能客观一点 不要把自己摘出来太清 我的截图只是对于你断章取义的补充 我的罪行我全部承认\n2 我希望你别拘泥于这些事情 我希望你能去当正常女孩子找自己的幸福\n3 我希望对于我贱种这件事 影响不要到我身边的人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1904796770036834307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm8ykf9bYAM7Faf.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1904792408292024369",
+        "created_at": "2025-03-26T07:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T08:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904797751470416379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1874402147103838208",
+              "start": 0,
+              "username": "wanwanblaster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904797751470416379",
+        "in_reply_to_user_id": "1874402147103838208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "是的我是母狗 我没有说任何不承认的事实 这张截图那时候我没有任何的对象 我只是希望\n1 你能客观一点 不要把自己摘出来太清 我的截图只是对于你断章取义的补充 我的罪行我全部承认\n2 我希望你别拘泥于这些事情 我希望你能去当正常女孩子找自己的幸福\n3 我希望对于我贱种这件事 影响不要到我身边的人 他们无辜"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904796778802930162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanwanblaster 是的我是母狗 我没有说任何不承认的事实 这张截图那时候我没有任何的对象 我只是希望\n1 你能客观一点 不要把自己摘出来太清 我的截图只是对于你断章取义的补充 我的罪行我全部承认\n2 我希望你别拘泥于这些事情 我希望你能去当正常女孩子找自己的幸福\n3 我希望对于我贱种这件事 影响不要到我身边的人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904796770036834307"
+          ]
+        },
+        "author_id": "1874402147103838208",
+        "conversation_id": "1904792408292024369",
+        "created_at": "2025-03-26T07:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T08:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904796778802930162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7DOanTSZoK",
+              "end": 47,
+              "expanded_url": "https://x.com/wanwanblaster/status/1904796778802930162/photo/1",
+              "media_key": "3_1904796770036834307",
+              "start": 24,
+              "url": "https://t.co/7DOanTSZoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904796778802930162",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904795942521626871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 你要给大家看乐子的 https://t.co/7DOanTSZoK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "没有🚪 尽量都会回复｜169 43kg 男娘小雨是也｜唯一的🥰人@zhileiqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "zhileiqwq"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "pinned_tweet_id": "1873401816970592645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873256786213650434/zACAyapH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 3,
+          "like_count": 264,
+          "listed_count": 4,
+          "media_count": 74,
+          "tweet_count": 308
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T10:28:02.000Z",
+        "description": "世界破破烂烂 丸丸缝缝补补 ｜ 淡圈专心cs ｜属性brat ｜mtx小证含糖 ｜丸丸爱你们所有人 mua",
+        "id": "1874402147103838208",
+        "location": "Atlanta, GA",
+        "name": "丸丸",
+        "pinned_tweet_id": "1904631538928763012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902395991061602304/kx1zCiKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 72,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 205
+        },
+        "username": "wanwanblaster",
+        "verified": false
+      }
+    ]
+  }
+}

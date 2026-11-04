@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2083926153090506949",
+    "created_at": "2026-08-03T15:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:04:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084294372028514406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787014326332821504",
+          "start": 0,
+          "username": "CarlJakc71296"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084294372028514406",
+    "in_reply_to_user_id": "1787014326332821504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084145322369089741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CarlJakc71296 女老板是什么意思呀？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2083926153090506949",
+        "created_at": "2026-08-03T15:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084294372028514406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787014326332821504",
+              "start": 0,
+              "username": "CarlJakc71296"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084294372028514406",
+        "in_reply_to_user_id": "1787014326332821504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084145322369089741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CarlJakc71296 女老板是什么意思呀？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787014326332821504",
+        "conversation_id": "2083926153090506949",
+        "created_at": "2026-08-03T05:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T06:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084145322369089741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084145322369089741",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083926153090506949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 女老板"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhaoqing, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  112.45972,
+                  23.05116
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhaoqing",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜169 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082082719748829184/BjzF9OzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4414,
+          "following_count": 27,
+          "like_count": 383,
+          "listed_count": 14,
+          "media_count": 186,
+          "tweet_count": 697
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-05T07:00:01.000Z",
+        "description": "Indo European-levant natufian-basal euroasians-ane-iranian farmer-antatonian farmer\nWesteurasian  caucascian White people working class",
+        "id": "1787014326332821504",
+        "name": "dennis petersen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070413131579260928/CVZIHZfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 194,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 881,
+          "tweet_count": 4875
+        },
+        "url": "",
+        "username": "CarlJakc71296",
+        "verified": false
+      }
+    ]
+  }
+}

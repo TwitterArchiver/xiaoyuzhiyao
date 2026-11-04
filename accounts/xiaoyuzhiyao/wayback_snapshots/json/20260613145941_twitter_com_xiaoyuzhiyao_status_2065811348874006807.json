@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2065655349563318339",
+    "created_at": "2026-06-13T14:59:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065811348874006807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "106093385",
+          "start": 0,
+          "username": "nelsonzhu2008"
+        },
+        {
+          "end": 27,
+          "id": "1870108535268487169",
+          "start": 15,
+          "username": "MomoseReina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065811348874006807",
+    "in_reply_to_user_id": "106093385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065679304424374705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nelsonzhu2008 @MomoseReina 你可以给sim卡设置个pin码或者esim"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2065655349563318339",
+        "created_at": "2026-06-13T14:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065811348874006807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "106093385",
+              "start": 0,
+              "username": "nelsonzhu2008"
+            },
+            {
+              "end": 27,
+              "id": "1870108535268487169",
+              "start": 15,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065811348874006807",
+        "in_reply_to_user_id": "106093385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065679304424374705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nelsonzhu2008 @MomoseReina 你可以给sim卡设置个pin码或者esim"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "106093385",
+        "conversation_id": "2065655349563318339",
+        "created_at": "2026-06-13T06:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065679304424374705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065679304424374705",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065678175368348004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 丢失过程中可以使用“捡来”的手机卡登录你的账号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜169 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013909089936703488/fZiSnWgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4401,
+          "following_count": 24,
+          "like_count": 380,
+          "listed_count": 14,
+          "media_count": 173,
+          "tweet_count": 670
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-18T13:41:17.000Z",
+        "description": "Mac/Mobile/internet/Project\nhttps://t.co/03iBkHEX4T",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCy0r8…",
+                "end": 51,
+                "expanded_url": "https://www.youtube.com/channel/UCy0r85A_u5lNaPk-tvSgpwg",
+                "start": 28,
+                "url": "https://t.co/03iBkHEX4T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "notion.so/decchannel/Mr-…",
+                "end": 23,
+                "expanded_url": "https://www.notion.so/decchannel/Mr-D-bd02825cb4004f828eda0d3c7a02af7b",
+                "start": 0,
+                "url": "https://t.co/gZ5V7NouaL"
+              }
+            ]
+          }
+        },
+        "id": "106093385",
+        "name": "Nelson Zhu☂ | DEC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/973210293181362176/gooH89XY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 240,
+          "like_count": 420,
+          "listed_count": 14,
+          "media_count": 472,
+          "tweet_count": 25047
+        },
+        "url": "https://t.co/gZ5V7NouaL",
+        "username": "nelsonzhu2008",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 54,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 342,
+          "like_count": 8816,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 6182
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

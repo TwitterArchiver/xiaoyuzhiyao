@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2092677784225345713",
+    "created_at": "2026-08-27T03:45:48.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T04:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092820850215153727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2840236608",
+          "start": 0,
+          "username": "MilkSU_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092820850215153727",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092677784225345713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkSU_Official 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2092677775492882432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqvWW2boAA3G5c.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092677775442452480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqvWWqaIAAW7R5.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2092677784225345713",
+        "created_at": "2026-08-27T03:45:48.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092820850215153727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2840236608",
+              "start": 0,
+              "username": "MilkSU_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092820850215153727",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092677784225345713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkSU_Official 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092677775492882432",
+            "3_2092677775442452480"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2092677784225345713",
+        "created_at": "2026-08-26T18:17:18.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092677784225345713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/haiG8bqlwx",
+              "end": 43,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2092677784225345713/photo/1",
+              "media_key": "3_2092677775492882432",
+              "start": 20,
+              "url": "https://t.co/haiG8bqlwx"
+            },
+            {
+              "display_url": "pic.x.com/haiG8bqlwx",
+              "end": 43,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2092677784225345713/photo/1",
+              "media_key": "3_2092677775442452480",
+              "start": 20,
+              "url": "https://t.co/haiG8bqlwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092677784225345713",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092677775492882432"
+          },
+          {
+            "media_key": "3_2092677775442452480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1094,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我买了一个一体式直发吹风机\n感觉还不错 https://t.co/haiG8bqlwx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangyuan, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  105.823,
+                  32.44202
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangyuan",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "小男娘｜心/生理性别女｜xxy 但是手术了\n好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜172 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n理学心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2092820850215153727",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767820111602503680/1780900504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082082719748829184/BjzF9OzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4440,
+          "following_count": 29,
+          "like_count": 390,
+          "listed_count": 14,
+          "media_count": 194,
+          "tweet_count": 719
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "System Security Hunter. Security Agent Developer. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Not reply dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V5uqa"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "is_identity_verified": false,
+        "location": "Barcelona, Cataluña",
+        "most_recent_tweet_id": "2092779306393141454",
+        "name": "MilkSU⭐🐈‍⬛🪼",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2840236608/1761899371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089222116583624704/em9KNvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4858,
+          "following_count": 2760,
+          "like_count": 42314,
+          "listed_count": 19,
+          "media_count": 1612,
+          "tweet_count": 14131
+        },
+        "url": "https://t.co/zEul7V5uqa",
+        "username": "MilkSU_Official",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

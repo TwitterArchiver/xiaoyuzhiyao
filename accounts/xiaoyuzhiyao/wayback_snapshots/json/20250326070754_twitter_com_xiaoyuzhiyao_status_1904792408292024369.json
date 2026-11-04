@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1904792408292024369",
+    "created_at": "2025-03-26T07:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T08:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904792408292024369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 85,
+          "id": "1874402147103838208",
+          "start": 71,
+          "username": "wanwanblaster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904792408292024369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 85,
+            "id": "1874402147103838208",
+            "start": 71,
+            "username": "wanwanblaster"
+          }
+        ]
+      },
+      "text": "不想多做解释，在我家里吃喝都是我供的。我确实有恶的地方，你也付出了很多。比如说你说的三万块钱 有一个是你家里送我的镯子，当时卖掉的理由很清楚。@wanwanblaster 并没有能力吃饱饭了 在我这里每餐 每个住的都是我供的。卖掉之后我承认我用掉了一些但大部分gei他自己吃了。\n以下附上我前阵子分手的时候写的信"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不想多做解释，在我家里吃喝都是我供的。我确实有恶的地方，你也付出了很多。比如说你说的三万块钱 有一个是你家里送我的镯子，当时卖掉的理由很清楚。@wanwanblaster 并没有能力吃饱饭了 在我这里每餐 每个住的都是我供的。卖掉之后我承认我用掉了一些但大部分gei他自己吃了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1904792408292024369",
+        "created_at": "2025-03-26T07:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T08:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904792408292024369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 85,
+              "id": "1874402147103838208",
+              "start": 71,
+              "username": "wanwanblaster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904792408292024369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 85,
+                "id": "1874402147103838208",
+                "start": 71,
+                "username": "wanwanblaster"
+              }
+            ]
+          },
+          "text": "不想多做解释，在我家里吃喝都是我供的。我确实有恶的地方，你也付出了很多。比如说你说的三万块钱 有一个是你家里送我的镯子，当时卖掉的理由很清楚。@wanwanblaster 并没有能力吃饱饭了 在我这里每餐 每个住的都是我供的。卖掉之后我承认我用掉了一些但大部分gei他自己吃了。\n以下附上我前阵子分手的时候写的信"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想多做解释，在我家里吃喝都是我供的。我确实有恶的地方，你也付出了很多。比如说你说的三万块钱 有一个是你家里送我的镯子，当时卖掉的理由很清楚。@wanwanblaster 并没有能力吃饱饭了 在我这里每餐 每个住的都是我供的。卖掉之后我承认我用掉了一些但大部分gei他自己吃了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "没有🚪 尽量都会回复｜169 43kg 男娘小雨是也｜唯一的🥰人@zhileiqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "zhileiqwq"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "pinned_tweet_id": "1873401816970592645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873256786213650434/zACAyapH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 3,
+          "like_count": 260,
+          "listed_count": 4,
+          "media_count": 71,
+          "tweet_count": 302
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T10:28:02.000Z",
+        "description": "世界破破烂烂 丸丸缝缝补补 ｜ 淡圈专心cs ｜属性brat ｜mtx小证含糖 ｜丸丸爱你们所有人 mua",
+        "id": "1874402147103838208",
+        "location": "Atlanta, GA",
+        "name": "丸丸",
+        "pinned_tweet_id": "1904631538928763012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902395991061602304/kx1zCiKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 72,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 197
+        },
+        "username": "wanwanblaster",
+        "verified": false
+      }
+    ]
+  }
+}

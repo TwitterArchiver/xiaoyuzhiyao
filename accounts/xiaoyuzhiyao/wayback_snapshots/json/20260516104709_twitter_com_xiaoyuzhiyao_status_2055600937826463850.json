@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2055524330621325723",
+    "created_at": "2026-05-16T10:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055600937826463850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1164388321545449472",
+          "start": 0,
+          "username": "imwsl90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055600937826463850",
+    "in_reply_to_user_id": "1164388321545449472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055524330621325723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imwsl90 这东西原来还能买到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055524326905147392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIawfBRa8AAH_dL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2055524330621325723",
+        "created_at": "2026-05-16T10:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055600937826463850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1164388321545449472",
+              "start": 0,
+              "username": "imwsl90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055600937826463850",
+        "in_reply_to_user_id": "1164388321545449472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055524330621325723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imwsl90 这东西原来还能买到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055524326905147392"
+          ]
+        },
+        "author_id": "1164388321545449472",
+        "conversation_id": "2055524330621325723",
+        "created_at": "2026-05-16T05:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055524330621325723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCHOyIyVvh",
+              "end": 54,
+              "expanded_url": "https://x.com/imwsl90/status/2055524330621325723/photo/1",
+              "media_key": "3_2055524326905147392",
+              "start": 31,
+              "url": "https://t.co/KCHOyIyVvh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055524330621325723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 403,
+          "impression_count": 485650,
+          "like_count": 534,
+          "quote_count": 2,
+          "reply_count": 194,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "拼多多上用黑话买到了\n\n现在真的好难🤦‍♂️🤦‍♂️🤦‍♂️ https://t.co/KCHOyIyVvh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜实习圆角｜",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013909089936703488/fZiSnWgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4388,
+          "following_count": 24,
+          "like_count": 374,
+          "listed_count": 15,
+          "media_count": 164,
+          "tweet_count": 640
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-22T04:06:29.000Z",
+        "description": "前程序员/产品经理/中年已婚带2娃\n\n- 互联网、编程、OPC、AI、两性情感、历史八卦\n\n联系方式: https://t.co/qhzcXicBvG\n低调魔法：https://t.co/B5SfJ7LTgf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/imwsl90",
+                "end": 75,
+                "expanded_url": "https://t.me/imwsl90",
+                "start": 52,
+                "url": "https://t.co/qhzcXicBvG"
+              },
+              {
+                "display_url": "tinyurl.com/4auuxfw9",
+                "end": 104,
+                "expanded_url": "https://tinyurl.com/4auuxfw9",
+                "start": 81,
+                "url": "https://t.co/B5SfJ7LTgf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.imwsl.com",
+                "end": 23,
+                "expanded_url": "https://me.imwsl.com",
+                "start": 0,
+                "url": "https://t.co/cB0WJCp1J1"
+              }
+            ]
+          }
+        },
+        "id": "1164388321545449472",
+        "location": "V: wesley6020",
+        "name": "卫斯理",
+        "pinned_tweet_id": "2054843906366624116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770626410606141440/HFy0Ibg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91406,
+          "following_count": 7868,
+          "like_count": 49335,
+          "listed_count": 601,
+          "media_count": 14444,
+          "tweet_count": 78469
+        },
+        "url": "https://t.co/cB0WJCp1J1",
+        "username": "imwsl90",
+        "verified": true
+      }
+    ]
+  }
+}

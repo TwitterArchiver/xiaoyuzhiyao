@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084655682763280384",
+        "3_2084655682733969408",
+        "3_2084655682738114560",
+        "3_2084655682876526592"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "conversation_id": "2084655694696112329",
+    "created_at": "2026-08-04T15:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T16:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084655694696112329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e5u61RJrpy",
+          "end": 157,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2084655694696112329/photo/1",
+          "media_key": "3_2084655682763280384",
+          "start": 134,
+          "url": "https://t.co/e5u61RJrpy"
+        },
+        {
+          "display_url": "pic.x.com/e5u61RJrpy",
+          "end": 157,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2084655694696112329/photo/1",
+          "media_key": "3_2084655682733969408",
+          "start": 134,
+          "url": "https://t.co/e5u61RJrpy"
+        },
+        {
+          "display_url": "pic.x.com/e5u61RJrpy",
+          "end": 157,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2084655694696112329/photo/1",
+          "media_key": "3_2084655682738114560",
+          "start": 134,
+          "url": "https://t.co/e5u61RJrpy"
+        },
+        {
+          "display_url": "pic.x.com/e5u61RJrpy",
+          "end": 157,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2084655694696112329/photo/1",
+          "media_key": "3_2084655682876526592",
+          "start": 134,
+          "url": "https://t.co/e5u61RJrpy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084655694696112329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "处刑、凶杀案、牢房！\n名侦探雪莉酱大显身手的时刻\n终于到来啦\n我一直在寻找\n如此惊险刺激的地方\n这段邂逅就是我的幸福\n要是能和你永远在一起\n该有多好呀……开玩笑啦！哈哈\n\n                                            橘雪莉 https://t.co/e5u61RJrpy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2084655682763280384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4vTGoa0AAXtBG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084655682733969408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4vTGhbkAA0_9W.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2084655682738114560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4vTGia0AA1nfL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2084655682876526592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4vTHDa0AAtfw9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084655682763280384",
+            "3_2084655682733969408",
+            "3_2084655682738114560",
+            "3_2084655682876526592"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "conversation_id": "2084655694696112329",
+        "created_at": "2026-08-04T15:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084655694696112329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5u61RJrpy",
+              "end": 157,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2084655694696112329/photo/1",
+              "media_key": "3_2084655682763280384",
+              "start": 134,
+              "url": "https://t.co/e5u61RJrpy"
+            },
+            {
+              "display_url": "pic.x.com/e5u61RJrpy",
+              "end": 157,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2084655694696112329/photo/1",
+              "media_key": "3_2084655682733969408",
+              "start": 134,
+              "url": "https://t.co/e5u61RJrpy"
+            },
+            {
+              "display_url": "pic.x.com/e5u61RJrpy",
+              "end": 157,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2084655694696112329/photo/1",
+              "media_key": "3_2084655682738114560",
+              "start": 134,
+              "url": "https://t.co/e5u61RJrpy"
+            },
+            {
+              "display_url": "pic.x.com/e5u61RJrpy",
+              "end": 157,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2084655694696112329/photo/1",
+              "media_key": "3_2084655682876526592",
+              "start": 134,
+              "url": "https://t.co/e5u61RJrpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084655694696112329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "处刑、凶杀案、牢房！\n名侦探雪莉酱大显身手的时刻\n终于到来啦\n我一直在寻找\n如此惊险刺激的地方\n这段邂逅就是我的幸福\n要是能和你永远在一起\n该有多好呀……开玩笑啦！哈哈\n\n                                            橘雪莉 https://t.co/e5u61RJrpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhaoqing, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  112.45972,
+                  23.05116
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhaoqing",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜169 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082082719748829184/BjzF9OzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4412,
+          "following_count": 27,
+          "like_count": 388,
+          "listed_count": 14,
+          "media_count": 188,
+          "tweet_count": 703
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      }
+    ]
+  }
+}

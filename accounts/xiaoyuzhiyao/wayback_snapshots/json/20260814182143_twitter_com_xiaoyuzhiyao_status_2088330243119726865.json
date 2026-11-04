@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2087912601569411438",
+    "created_at": "2026-08-14T18:21:43.000Z",
+    "display_text_range": [
+      27,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T19:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088330243119726865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1633715238322466817",
+          "start": 0,
+          "username": "plumedream233"
+        },
+        {
+          "end": 26,
+          "id": "1976995735532138496",
+          "start": 15,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088330243119726865",
+    "in_reply_to_user_id": "1633715238322466817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087912601569411438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plumedream233 @JanboMikan 20号之后可以吗？老师"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2087912584565633024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnBbvUaMAA1HG7.jpg",
+        "width": 1598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2087912601569411438",
+        "created_at": "2026-08-14T18:21:43.000Z",
+        "display_text_range": [
+          27,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088330243119726865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1633715238322466817",
+              "start": 0,
+              "username": "plumedream233"
+            },
+            {
+              "end": 26,
+              "id": "1976995735532138496",
+              "start": 15,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088330243119726865",
+        "in_reply_to_user_id": "1633715238322466817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087912601569411438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plumedream233 @JanboMikan 20号之后可以吗？老师"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087912584565633024"
+          ]
+        },
+        "author_id": "1633715238322466817",
+        "conversation_id": "2087912601569411438",
+        "created_at": "2026-08-13T14:42:10.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087912601569411438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 43,
+              "tag": "男娘"
+            },
+            {
+              "end": 54,
+              "start": 47,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "mtf"
+            },
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "伪娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzwO5Yglju",
+              "end": 87,
+              "expanded_url": "https://x.com/plumedream233/status/2087912601569411438/photo/1",
+              "media_key": "3_2087912584565633024",
+              "start": 64,
+              "url": "https://t.co/yzwO5Yglju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087912601569411438",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087912584565633024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6337,
+          "like_count": 84,
+          "quote_count": 1,
+          "reply_count": 106,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有没有在深圳的可爱小男娘贴贴的~\n此时蜜柑正在压力一个小萝莉写文案找人玩。（呜呜呜） #男娘 #可爱的男孩子 #mtf #伪娘 https://t.co/yzwO5Yglju"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "小男娘｜心/生理性别女｜xxy 但是手术了\n好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜172 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n理学心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2088330243119726865",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767820111602503680/1780900504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082082719748829184/BjzF9OzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4414,
+          "following_count": 29,
+          "like_count": 387,
+          "listed_count": 14,
+          "media_count": 190,
+          "tweet_count": 711
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-09T06:24:16.000Z",
+        "description": "是个笨蛋男娘萝莉？...20岁/身高160体重50/性格混乱/性别mtf/性取向是喜欢可爱的xnn和xyn/清水/持大证含糖/圈子不混只看戏的边缘独行者/中专毕业计算机自学编程笨蛋程序员一位。(扩列直接私聊我就可以了) 不喜欢随便玩抽象和来着不善的家伙靠近我,不是黄推。精神抑郁严重，精神失常的疯子。没有任何立场不站队",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZypVzDRP-H4xM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZypVzDRP-H4xMTA1",
+                "start": 0,
+                "url": "https://t.co/T7IWsxdw5M"
+              }
+            ]
+          }
+        },
+        "id": "1633715238322466817",
+        "is_identity_verified": false,
+        "location": "终点之路—一切的起与终",
+        "most_recent_tweet_id": "2088153328803029138",
+        "name": "白羽梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1633715238322466817/1764218945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080622624196231168/HPn-F0fR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4648,
+          "following_count": 778,
+          "like_count": 11685,
+          "listed_count": 8,
+          "media_count": 823,
+          "tweet_count": 7524
+        },
+        "url": "https://t.co/T7IWsxdw5M",
+        "username": "plumedream233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "is_identity_verified": false,
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "most_recent_tweet_id": "2088272840021991532",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976995735532138496/1761750409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075454514812047362/ieswTjrr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16874,
+          "following_count": 626,
+          "like_count": 22192,
+          "listed_count": 54,
+          "media_count": 399,
+          "tweet_count": 11891
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

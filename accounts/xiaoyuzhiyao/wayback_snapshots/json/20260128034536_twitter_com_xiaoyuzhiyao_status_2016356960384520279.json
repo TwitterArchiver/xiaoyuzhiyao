@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016356807992541184"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2016356960384520279",
+    "created_at": "2026-01-28T03:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T04:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016356960384520279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lfBuJm1uc2",
+          "end": 32,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2016356960384520279/photo/1",
+          "media_key": "3_2016356807992541184",
+          "start": 9,
+          "url": "https://t.co/lfBuJm1uc2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016356960384520279",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神秘玩家索尼克速 https://t.co/lfBuJm1uc2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016356807992541184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_uJ1XDWAAASTkt.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016356807992541184"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016356960384520279",
+        "created_at": "2026-01-28T03:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T04:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016356960384520279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lfBuJm1uc2",
+              "end": 32,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2016356960384520279/photo/1",
+              "media_key": "3_2016356807992541184",
+              "start": 9,
+              "url": "https://t.co/lfBuJm1uc2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016356960384520279",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神秘玩家索尼克速 https://t.co/lfBuJm1uc2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜实习圆角",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013909089936703488/fZiSnWgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4487,
+          "following_count": 20,
+          "like_count": 359,
+          "listed_count": 16,
+          "media_count": 157,
+          "tweet_count": 612
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      }
+    ]
+  }
+}

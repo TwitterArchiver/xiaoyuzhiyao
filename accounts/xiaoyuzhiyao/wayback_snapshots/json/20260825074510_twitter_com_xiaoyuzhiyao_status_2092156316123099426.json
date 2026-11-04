@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092156264247889920",
+        "3_2092156264143065088"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2092156316123099426",
+    "created_at": "2026-08-25T07:45:10.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T08:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092156316123099426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q6LQ5Tnsaq",
+          "end": 23,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2092156316123099426/video/1",
+          "media_key": "13_2092156264247889920",
+          "start": 0,
+          "url": "https://t.co/q6LQ5Tnsaq"
+        },
+        {
+          "display_url": "pic.x.com/q6LQ5Tnsaq",
+          "end": 23,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2092156316123099426/video/1",
+          "media_key": "3_2092156264143065088",
+          "start": 0,
+          "url": "https://t.co/q6LQ5Tnsaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092156316123099426",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2092156264247889920"
+      },
+      {
+        "media_key": "3_2092156264143065088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/q6LQ5Tnsaq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3985,
+        "height": 1920,
+        "media_key": "13_2092156264247889920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092156264247889920/img/ic7DbkR6vr-UWLF0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092156264247889920/vid/avc1/480x852/9NQv53dOutd7SoL5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092156264247889920/vid/avc1/1080x1920/JlewBtQGrpDejACt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092156264247889920/vid/avc1/720x1280/EJS8tWUb7-nmxkCQ.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092156264247889920/vid/avc1/320x568/1Q5g-zRFsEMkfEou.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092156264247889920/pl/Vl3jHQT3azmk-dvh.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2092156264143065088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjVCZrbEAAkYDE.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092156264247889920",
+            "3_2092156264143065088"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092156316123099426",
+        "created_at": "2026-08-25T07:45:10.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092156316123099426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6LQ5Tnsaq",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2092156316123099426/video/1",
+              "media_key": "13_2092156264247889920",
+              "start": 0,
+              "url": "https://t.co/q6LQ5Tnsaq"
+            },
+            {
+              "display_url": "pic.x.com/q6LQ5Tnsaq",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2092156316123099426/video/1",
+              "media_key": "3_2092156264143065088",
+              "start": 0,
+              "url": "https://t.co/q6LQ5Tnsaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092156316123099426",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2092156264247889920"
+          },
+          {
+            "media_key": "3_2092156264143065088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/q6LQ5Tnsaq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangyuan, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  105.823,
+                  32.44202
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangyuan",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "小男娘｜心/生理性别女｜xxy 但是手术了\n好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜172 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n理学心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2092156316123099426",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767820111602503680/1780900504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082082719748829184/BjzF9OzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4415,
+          "following_count": 29,
+          "like_count": 388,
+          "listed_count": 14,
+          "media_count": 193,
+          "tweet_count": 717
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

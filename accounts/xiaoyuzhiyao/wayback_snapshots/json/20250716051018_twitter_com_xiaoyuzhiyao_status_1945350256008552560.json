@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945350249712672768"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "conversation_id": "1945350256008552560",
+    "created_at": "2025-07-16T05:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T06:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945350256008552560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VoxndjTwt8",
+          "end": 35,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1945350256008552560/photo/1",
+          "media_key": "3_1945350249712672768",
+          "start": 12,
+          "url": "https://t.co/VoxndjTwt8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945350256008552560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "获得成就：结束了…吗？ https://t.co/VoxndjTwt8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1945350249712672768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9FvsXXYAAGZHr.jpg",
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945350249712672768"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "conversation_id": "1945350256008552560",
+        "created_at": "2025-07-16T05:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T06:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945350256008552560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VoxndjTwt8",
+              "end": 35,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1945350256008552560/photo/1",
+              "media_key": "3_1945350249712672768",
+              "start": 12,
+              "url": "https://t.co/VoxndjTwt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945350256008552560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "获得成就：结束了…吗？ https://t.co/VoxndjTwt8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜ 没有🚪 尽量都会回复｜169 45kg｜希望有人记得我最好的女儿@misakixyg｜你应该好好对我@Yuki520OwO｜一起在病床醒来@xinyuQWQzhilei｜（ADHD）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "misakixyg"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Yuki520OwO"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "xinyuQWQzhilei"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 8,
+          "like_count": 318,
+          "listed_count": 7,
+          "media_count": 106,
+          "tweet_count": 460
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": false
+      }
+    ]
+  }
+}

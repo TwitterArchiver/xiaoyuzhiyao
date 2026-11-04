@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2063507895510323666",
+    "created_at": "2026-06-07T07:07:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:07:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063518164571635757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2062376081420931073",
+          "start": 0,
+          "username": "YuKi520qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063518164571635757",
+    "in_reply_to_user_id": "2062376081420931073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063507895510323666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuKi520qaq 缺了我的名片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063507885620072448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMNfTGaEAAqMpV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2063507895510323666",
+        "created_at": "2026-06-07T07:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063518164571635757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2062376081420931073",
+              "start": 0,
+              "username": "YuKi520qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063518164571635757",
+        "in_reply_to_user_id": "2062376081420931073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063507895510323666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520qaq 缺了我的名片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063507885620072448"
+          ]
+        },
+        "author_id": "2062376081420931073",
+        "conversation_id": "2063507895510323666",
+        "created_at": "2026-06-07T06:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063507895510323666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WD2XHTJXN0",
+              "end": 37,
+              "expanded_url": "https://x.com/YuKi520qaq/status/2063507895510323666/photo/1",
+              "media_key": "3_2063507885620072448",
+              "start": 14,
+              "url": "https://t.co/WD2XHTJXN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063507895510323666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拥有此两张卡的含金量是多少 https://t.co/WD2XHTJXN0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhaoqing, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  112.45972,
+                  23.05116
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhaoqing",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜实习圆角｜",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013909089936703488/fZiSnWgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4392,
+          "following_count": 25,
+          "like_count": 377,
+          "listed_count": 15,
+          "media_count": 169,
+          "tweet_count": 655
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-04T03:30:46.000Z",
+        "description": "立志成为小花酱那样受万人敬仰的圆角妹\n药娘（MTF）（私わ中国がらかわいい男の子です、よろしくお願いします!/二次元/美食/可爱的东西/ maimaidx",
+        "id": "2062376081420931073",
+        "location": "北京 上海 广州 日本 泰国",
+        "name": "樱井千雪🏳️‍⚧️🍥（二代目）",
+        "pinned_tweet_id": "2063411984994025498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063108763482206208/kvAB8WDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 24,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 26
+        },
+        "username": "YuKi520qaq",
+        "verified": false
+      }
+    ]
+  }
+}

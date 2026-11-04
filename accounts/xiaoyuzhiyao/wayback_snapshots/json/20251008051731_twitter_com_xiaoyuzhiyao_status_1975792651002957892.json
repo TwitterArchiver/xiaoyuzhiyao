@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1975438296689090865",
+    "created_at": "2025-10-08T05:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T06:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975792651002957892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1424406589910392841",
+          "start": 0,
+          "username": "Jdymm4"
+        },
+        {
+          "end": 23,
+          "id": "1431306628683366401",
+          "start": 8,
+          "username": "xinyuQWQzhilei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975792651002957892",
+    "in_reply_to_user_id": "1424406589910392841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975618051560382636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jdymm4 @xinyuQWQzhilei 这个蛮好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1975438296689090865",
+        "created_at": "2025-10-08T05:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T06:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975792651002957892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1424406589910392841",
+              "start": 0,
+              "username": "Jdymm4"
+            },
+            {
+              "end": 23,
+              "id": "1431306628683366401",
+              "start": 8,
+              "username": "xinyuQWQzhilei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975792651002957892",
+        "in_reply_to_user_id": "1424406589910392841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975618051560382636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jdymm4 @xinyuQWQzhilei 这个蛮好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424406589910392841",
+        "conversation_id": "1975438296689090865",
+        "created_at": "2025-10-07T17:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975618051560382636"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "上海",
+              "probability": 0.5813,
+              "start": 16,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1431306628683366401",
+              "start": 0,
+              "username": "xinyuQWQzhilei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975618051560382636",
+        "in_reply_to_user_id": "1431306628683366401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 231,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975438296689090865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinyuQWQzhilei 上海……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜🚪58 尽量都会回复｜169 42.5kg｜b表演跟b边缘能不能去死啊我草｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "misakixyg"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3257,
+          "following_count": 13,
+          "like_count": 328,
+          "listed_count": 8,
+          "media_count": 130,
+          "tweet_count": 534
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-08T16:26:37.000Z",
+        "description": "",
+        "id": "1424406589910392841",
+        "name": "罗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1443979277863559169/0aUwxHF9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 489,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 91
+        },
+        "username": "Jdymm4",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T17:24:33.000Z",
+        "description": "srs，声带术后/ mtx?mtf? / 161cm52kg / 足控 喜欢可爱的男孩子 泛性恋 / 有好感可以戳我交朋友 / 缺爱缺对象缺陪伴",
+        "id": "1431306628683366401",
+        "location": "广州",
+        "name": "星雨QWQ",
+        "pinned_tweet_id": "1895402857714872693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909975866991611904/oxbuSMVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7475,
+          "following_count": 878,
+          "like_count": 3748,
+          "listed_count": 21,
+          "media_count": 156,
+          "tweet_count": 1968
+        },
+        "username": "xinyuQWQzhilei",
+        "verified": false
+      }
+    ]
+  }
+}

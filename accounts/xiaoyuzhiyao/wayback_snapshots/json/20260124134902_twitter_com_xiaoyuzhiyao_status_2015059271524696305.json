@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015059257100513280",
+        "3_2015059257096314880"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015059271524696305",
+    "created_at": "2026-01-24T13:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T14:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015059271524696305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jTi3W2B6pc",
+          "end": 58,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2015059271524696305/photo/1",
+          "media_key": "3_2015059257100513280",
+          "start": 35,
+          "url": "https://t.co/jTi3W2B6pc"
+        },
+        {
+          "display_url": "pic.x.com/jTi3W2B6pc",
+          "end": 58,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2015059271524696305/photo/1",
+          "media_key": "3_2015059257096314880",
+          "start": 35,
+          "url": "https://t.co/jTi3W2B6pc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015059271524696305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三角洲没技术不是技术护可以黄护吗（小声bb\n10块一个小时就行了宝子 https://t.co/jTi3W2B6pc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015059257100513280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_btt9TWsAAP28o.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2015059257096314880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_btt9SWoAABMCu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015059257100513280",
+            "3_2015059257096314880"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015059271524696305",
+        "created_at": "2026-01-24T13:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015059271524696305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTi3W2B6pc",
+              "end": 58,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2015059271524696305/photo/1",
+              "media_key": "3_2015059257100513280",
+              "start": 35,
+              "url": "https://t.co/jTi3W2B6pc"
+            },
+            {
+              "display_url": "pic.x.com/jTi3W2B6pc",
+              "end": 58,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2015059271524696305/photo/1",
+              "media_key": "3_2015059257096314880",
+              "start": 35,
+              "url": "https://t.co/jTi3W2B6pc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015059271524696305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三角洲没技术不是技术护可以黄护吗（小声bb\n10块一个小时就行了宝子 https://t.co/jTi3W2B6pc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜实习圆角",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013909089936703488/fZiSnWgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4500,
+          "following_count": 18,
+          "like_count": 358,
+          "listed_count": 16,
+          "media_count": 156,
+          "tweet_count": 611
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      }
+    ]
+  }
+}

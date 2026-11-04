@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2085008417056538789",
+    "created_at": "2026-08-05T18:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T19:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085072971849519155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2035786389250576384",
+          "start": 0,
+          "username": "EchoSky0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085072971849519155",
+    "in_reply_to_user_id": "2035786389250576384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085039609743085995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EchoSky0 谢谢捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2085008417056538789",
+        "created_at": "2026-08-05T18:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085072971849519155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2035786389250576384",
+              "start": 0,
+              "username": "EchoSky0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085072971849519155",
+        "in_reply_to_user_id": "2035786389250576384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085039609743085995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EchoSky0 谢谢捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035786389250576384",
+        "conversation_id": "2085008417056538789",
+        "created_at": "2026-08-05T16:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085039609743085995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085039609743085995",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085008417056538789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 好看老大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhaoqing, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  112.45972,
+                  23.05116
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhaoqing",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜169 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082082719748829184/BjzF9OzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4411,
+          "following_count": 29,
+          "like_count": 387,
+          "listed_count": 14,
+          "media_count": 188,
+          "tweet_count": 706
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T18:32:40.000Z",
+        "description": "依赖型人格/小透明coser/喜欢cosplay和喜欢的亲友集邮贴贴/ISFP\nB站叫：趴在床上的妍妍酱\n现常驻上海，这个号会更新一些开心的抽象的趣事还有不定期发一些cos擦边？\n小号（专门用来抱怨自己情绪的）：@EchoSky91",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 106,
+                "username": "EchoSky91"
+              }
+            ]
+          }
+        },
+        "id": "2035786389250576384",
+        "location": "想和你再近一点",
+        "name": "EchoSky妍～",
+        "pinned_tweet_id": "2084324618408727024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069379896938487808/EEyoG5qM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 88,
+          "like_count": 2478,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "EchoSky0",
+        "verified": true
+      }
+    ]
+  }
+}

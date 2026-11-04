@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1909114591709475084",
+    "created_at": "2025-04-07T05:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T06:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909114591709475084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nairichanwa/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/nairichanwa/status/1908797273796206943",
+          "start": 14,
+          "url": "https://t.co/FpvqpvXlRU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909114591709475084",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908797273796206943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也要我也要我也要 www https://t.co/FpvqpvXlRU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1908797264245776385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1o_6ObYAECekn.jpg",
+        "width": 766
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1908797264266747906",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1o_6TbYAIfKe8.jpg",
+        "width": 792
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1908797264216436736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1o_6HbsAA16b1.jpg",
+        "width": 928
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1908797264237305856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn1o_6MaIAAaqfb.jpg",
+        "width": 814
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1909114591709475084",
+        "created_at": "2025-04-07T05:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T06:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909114591709475084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nairichanwa/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/nairichanwa/status/1908797273796206943",
+              "start": 14,
+              "url": "https://t.co/FpvqpvXlRU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909114591709475084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908797273796206943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要我也要我也要 www https://t.co/FpvqpvXlRU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908797264245776385",
+            "3_1908797264266747906",
+            "3_1908797264216436736",
+            "3_1908797264237305856"
+          ]
+        },
+        "author_id": "1742111768649052160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1908797273796206943",
+        "created_at": "2025-04-06T08:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T09:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908797273796206943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eUfCYxiagX",
+              "end": 59,
+              "expanded_url": "https://x.com/nairichanwa/status/1908797273796206943/photo/1",
+              "media_key": "3_1908797264245776385",
+              "start": 36,
+              "url": "https://t.co/eUfCYxiagX"
+            },
+            {
+              "display_url": "pic.x.com/eUfCYxiagX",
+              "end": 59,
+              "expanded_url": "https://x.com/nairichanwa/status/1908797273796206943/photo/1",
+              "media_key": "3_1908797264266747906",
+              "start": 36,
+              "url": "https://t.co/eUfCYxiagX"
+            },
+            {
+              "display_url": "pic.x.com/eUfCYxiagX",
+              "end": 59,
+              "expanded_url": "https://x.com/nairichanwa/status/1908797273796206943/photo/1",
+              "media_key": "3_1908797264216436736",
+              "start": 36,
+              "url": "https://t.co/eUfCYxiagX"
+            },
+            {
+              "display_url": "pic.x.com/eUfCYxiagX",
+              "end": 59,
+              "expanded_url": "https://x.com/nairichanwa/status/1908797273796206943/photo/1",
+              "media_key": "3_1908797264237305856",
+              "start": 36,
+              "url": "https://t.co/eUfCYxiagX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908797273796206943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5504,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好耶～下次来上海、小花我估计可以肉偿租房了！不用担心没地方住了！好耶～ https://t.co/eUfCYxiagX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "（所有社交账号已由他人托管 回复较慢）没有🚪 尽量都会回复｜169 43kg 男娘小雨是也｜唯一的🥰人@zhileiqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "zhileiqwq"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907656035021762560/0U2we1Qs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2194,
+          "following_count": 3,
+          "like_count": 268,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 310
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-02T09:13:44.000Z",
+        "description": "🚫仅此一个号 | 🏳️‍⚧️Highly qualified #xyn | 🍥含糖3年已断供 | ‼️163cm/54kg/天赋党⁉️ | 💜地雷系、萝莉系、可爱脸 | ⚠️接线下 #圆角 #爸爸活 | 🚪#门槛 298 | ✈️全国可飞 | 🔞未成年勿扰 | 📷寻找摄影师 | 🍑出售 #原味",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "xyn"
+              },
+              {
+                "end": 94,
+                "start": 91,
+                "tag": "圆角"
+              },
+              {
+                "end": 99,
+                "start": 95,
+                "tag": "爸爸活"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "门槛"
+              },
+              {
+                "end": 147,
+                "start": 144,
+                "tag": "原味"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/nairichanwa",
+                "end": 23,
+                "expanded_url": "https://bit.ly/nairichanwa",
+                "start": 0,
+                "url": "https://t.co/wIFBohOCdo"
+              }
+            ]
+          }
+        },
+        "id": "1742111768649052160",
+        "location": "Base上海、过门槛或其他业务请点击此链接👉",
+        "name": "小花酱🏳️‍⚧️はなちゃんは〜",
+        "pinned_tweet_id": "1852464438152208692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742530929263104000/IALD6jyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15088,
+          "following_count": 251,
+          "like_count": 1396,
+          "listed_count": 29,
+          "media_count": 331,
+          "tweet_count": 1628
+        },
+        "url": "https://t.co/wIFBohOCdo",
+        "username": "nairichanwa",
+        "verified": true
+      }
+    ]
+  }
+}

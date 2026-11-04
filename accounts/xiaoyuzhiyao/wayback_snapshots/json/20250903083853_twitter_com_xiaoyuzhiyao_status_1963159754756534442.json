@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1962954254681047120",
+    "created_at": "2025-09-03T08:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T09:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963159754756534442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1780837272126132224",
+          "start": 0,
+          "username": "qn52157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963159754756534442",
+    "in_reply_to_user_id": "1780837272126132224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962954254681047120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qn52157 羡慕泉奈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1962954243993960453",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz3QfBebAAUr0e4.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1962954254681047120",
+        "created_at": "2025-09-03T08:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T09:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963159754756534442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1780837272126132224",
+              "start": 0,
+              "username": "qn52157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963159754756534442",
+        "in_reply_to_user_id": "1780837272126132224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962954254681047120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qn52157 羡慕泉奈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962954243993960453"
+          ]
+        },
+        "author_id": "1780837272126132224",
+        "conversation_id": "1962954254681047120",
+        "created_at": "2025-09-02T19:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T20:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962954254681047120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNZqeVT9o9",
+              "end": 100,
+              "expanded_url": "https://x.com/qn52157/status/1962954254681047120/photo/1",
+              "media_key": "3_1962954243993960453",
+              "start": 77,
+              "url": "https://t.co/hNZqeVT9o9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962954254681047120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1455,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以前认识的小药娘基本做变性去了，就剩我一个郭楠，哎，要是我长得漂亮点就好了，真羡慕那些漂亮小药娘露个玉足就会被一群人蹭蹭，而我只能在垃圾桶捡垃圾了🥺🥺🥺 https://t.co/hNZqeVT9o9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜ 没有🚪 尽量都会回复｜169 45kg｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "misakixyg"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3189,
+          "following_count": 14,
+          "like_count": 305,
+          "listed_count": 7,
+          "media_count": 117,
+          "tweet_count": 500
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-18T05:54:33.000Z",
+        "description": "药娘，常驻苏州，🚪68，全国可飞，愿世上再也没有戒网瘾学校",
+        "id": "1780837272126132224",
+        "name": "五河泉奈🍥",
+        "pinned_tweet_id": "1962233131421089795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962952861538734080/Wp4_c5Qd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5353,
+          "following_count": 518,
+          "like_count": 1477,
+          "listed_count": 20,
+          "media_count": 147,
+          "tweet_count": 375
+        },
+        "username": "qn52157",
+        "verified": false
+      }
+    ]
+  }
+}

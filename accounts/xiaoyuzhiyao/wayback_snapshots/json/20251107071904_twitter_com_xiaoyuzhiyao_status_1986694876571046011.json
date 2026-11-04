@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1986694816630251523"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "conversation_id": "1986694876571046011",
+    "created_at": "2025-11-07T07:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T08:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986694876571046011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VNkeisILYj",
+          "end": 48,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1986694876571046011/video/1",
+          "media_key": "13_1986694816630251523",
+          "start": 25,
+          "url": "https://t.co/VNkeisILYj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986694876571046011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爸妈放心你儿子在重庆出息了 每天都可以换着床睡觉 https://t.co/VNkeisILYj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15500,
+        "height": 1920,
+        "media_key": "13_1986694816630251523",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1986694816630251523/img/gVuvqrVv9aqMqLGo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986694816630251523/vid/avc1/720x1560/7dn1Ebh-sNPcDOJy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986694816630251523/vid/avc1/480x1040/A3oaCtrwbmlTw1q0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986694816630251523/vid/avc1/886x1920/TegB7KzrquSCicpK.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986694816630251523/vid/avc1/320x692/Lxn6PkjfzArZJnS5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1986694816630251523/pl/00sgnLNdEG1KBiEE.m3u8"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1986694816630251523"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "conversation_id": "1986694876571046011",
+        "created_at": "2025-11-07T07:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T08:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986694876571046011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VNkeisILYj",
+              "end": 48,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1986694876571046011/video/1",
+              "media_key": "13_1986694816630251523",
+              "start": 25,
+              "url": "https://t.co/VNkeisILYj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986694876571046011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸妈放心你儿子在重庆出息了 每天都可以换着床睡觉 https://t.co/VNkeisILYj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜🥰@Saturney_Erdong｜希望有人记得我最好的女儿@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "Saturney_Erdong"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976516194791460864/1260YPVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4581,
+          "following_count": 21,
+          "like_count": 344,
+          "listed_count": 14,
+          "media_count": 145,
+          "tweet_count": 582
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      }
+    ]
+  }
+}

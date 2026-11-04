@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1986382312268046771",
+    "created_at": "2025-11-06T15:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T16:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986462844200866190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1712759769659068416",
+          "start": 0,
+          "username": "DoxXin97340"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986462844200866190",
+    "in_reply_to_user_id": "1712759769659068416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986455009744060520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoxXin97340 不能私信你 这个主板要配铭轩或是华南金牌加专用nas"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986455006111817728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FOTamXYAAtv5u.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986455006178852864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5FOTa2WQAA2L_I.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1986382312268046771",
+        "created_at": "2025-11-06T15:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986462844200866190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1712759769659068416",
+              "start": 0,
+              "username": "DoxXin97340"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986462844200866190",
+        "in_reply_to_user_id": "1712759769659068416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986455009744060520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoxXin97340 不能私信你 这个主板要配铭轩或是华南金牌加专用nas"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986455006111817728",
+            "3_1986455006178852864"
+          ]
+        },
+        "author_id": "1712759769659068416",
+        "conversation_id": "1986382312268046771",
+        "created_at": "2025-11-06T15:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T16:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986455009744060520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Y4JlO0jPO",
+              "end": 58,
+              "expanded_url": "https://x.com/DoxXin97340/status/1986455009744060520/photo/1",
+              "media_key": "3_1986455006111817728",
+              "start": 35,
+              "url": "https://t.co/2Y4JlO0jPO"
+            },
+            {
+              "display_url": "pic.x.com/2Y4JlO0jPO",
+              "end": 58,
+              "expanded_url": "https://x.com/DoxXin97340/status/1986455009744060520/photo/1",
+              "media_key": "3_1986455006178852864",
+              "start": 35,
+              "url": "https://t.co/2Y4JlO0jPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986455009744060520",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986382312268046771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 我想要，给我吧 我nas这么烂(ಥ_ಥ) https://t.co/2Y4JlO0jPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜🥰@Saturney_Erdong｜希望有人记得我最好的女儿@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "Saturney_Erdong"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976516194791460864/1260YPVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4581,
+          "following_count": 18,
+          "like_count": 344,
+          "listed_count": 14,
+          "media_count": 144,
+          "tweet_count": 580
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T09:19:14.000Z",
+        "description": "哥(姐姐)们，你是在看简介嘛😝\n生产日期2012.2.22 保质期未知 已出柜\n幽默静步男-无名 主打一个幽默 政治立场你觉得呢 😜💜💖💙 三角洲国际服玩家-爱玩鸟兽兽 会用一点UE5 intel志强垃圾佬epyc热爱者 NAS玩家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nas-gp.fucku.top",
+                "end": 23,
+                "expanded_url": "http://nas-gp.fucku.top",
+                "start": 0,
+                "url": "https://t.co/UMTZOik325"
+              }
+            ]
+          }
+        },
+        "id": "1712759769659068416",
+        "location": "精神病院",
+        "name": "Gpong🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985005828059906048/lIJBvfKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 259,
+          "like_count": 485,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 454
+        },
+        "url": "https://t.co/UMTZOik325",
+        "username": "DoxXin97340",
+        "verified": false
+      }
+    ]
+  }
+}

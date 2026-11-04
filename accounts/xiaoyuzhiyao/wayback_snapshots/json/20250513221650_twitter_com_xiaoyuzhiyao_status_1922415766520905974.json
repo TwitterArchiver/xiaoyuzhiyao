@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1922383231480902128",
+    "created_at": "2025-05-13T22:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T23:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922415766520905974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893695442665500672",
+          "start": 0,
+          "username": "Max322_meikeshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922415766520905974",
+    "in_reply_to_user_id": "1893695442665500672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922383231480902128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Max322_meikeshu （？演都不演"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1922383231480902128",
+        "created_at": "2025-05-13T22:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T23:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922415766520905974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893695442665500672",
+              "start": 0,
+              "username": "Max322_meikeshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922415766520905974",
+        "in_reply_to_user_id": "1893695442665500672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922383231480902128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Max322_meikeshu （？演都不演"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893695442665500672",
+        "conversation_id": "1922383231480902128",
+        "created_at": "2025-05-13T20:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T21:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922383231480902128"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922383231480902128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个前夫又分手了我竟然有点想笑\n这就是打复合pao的下场"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜没有🚪 尽量都会回复｜169 45kg｜最好的女儿@misakixyg｜唯一的🥰人@zhileiqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "misakixyg"
+              },
+              {
+                "end": 54,
+                "start": 44,
+                "username": "zhileiqwq"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 9,
+          "like_count": 305,
+          "listed_count": 6,
+          "media_count": 88,
+          "tweet_count": 403
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-23T16:13:15.000Z",
+        "description": "很莫名其妙很低脂的一个妹克鼠😼\nQQ3966570807（小号）不定期上线 欢迎骚扰",
+        "id": "1893695442665500672",
+        "location": "那天我睡死在了网易云",
+        "name": "MECT",
+        "pinned_tweet_id": "1910373218483134773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916174263847186432/yWEGgPIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 10,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 57
+        },
+        "username": "Max322_meikeshu",
+        "verified": false
+      }
+    ]
+  }
+}

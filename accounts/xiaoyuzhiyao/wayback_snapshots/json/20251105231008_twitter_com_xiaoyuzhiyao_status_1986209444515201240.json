@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986209316169523202",
+        "3_1986209316173680640",
+        "3_1986209316165353472",
+        "13_1986209316186320896"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1986209444515201240",
+    "created_at": "2025-11-05T23:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T00:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986209444515201240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XfnYRwsdti",
+          "end": 79,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1986209444515201240/video/1",
+          "media_key": "3_1986209316169523202",
+          "start": 56,
+          "url": "https://t.co/XfnYRwsdti"
+        },
+        {
+          "display_url": "pic.x.com/XfnYRwsdti",
+          "end": 79,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1986209444515201240/video/1",
+          "media_key": "3_1986209316173680640",
+          "start": 56,
+          "url": "https://t.co/XfnYRwsdti"
+        },
+        {
+          "display_url": "pic.x.com/XfnYRwsdti",
+          "end": 79,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1986209444515201240/video/1",
+          "media_key": "3_1986209316165353472",
+          "start": 56,
+          "url": "https://t.co/XfnYRwsdti"
+        },
+        {
+          "display_url": "pic.x.com/XfnYRwsdti",
+          "end": 79,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1986209444515201240/video/1",
+          "media_key": "13_1986209316186320896",
+          "start": 56,
+          "url": "https://t.co/XfnYRwsdti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986209444515201240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "马上要搬家到重庆了 \n到了重庆之后如果能找到本地推友的话松精心准备的原味捏\n还有欢迎重庆的推友要一起来找我玩哦 https://t.co/XfnYRwsdti"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986209316169523202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Bu2YPbIAIBQwe.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986209316173680640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Bu2YQakAA0_WY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1986209316165353472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Bu2YObgAAA-j_.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 15866,
+        "height": 3840,
+        "media_key": "13_1986209316186320896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1986209316186320896/img/HkfqB9kmPvdWrkMS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986209316186320896/vid/avc1/720x1280/oOvVg8dy4ymSCw_-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1986209316186320896/pl/z8YxbHCb9SfUHwni.m3u8"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986209316186320896/vid/avc1/2160x3840/4a6s4W53LXuq4upW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986209316186320896/vid/avc1/480x852/lORgqrEXMlXgQ6vS.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986209316186320896/vid/avc1/320x568/GIZZ-fSM6DdRKOgX.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986209316186320896/vid/avc1/1080x1920/jYqJLYnYUYT5W_HB.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986209316169523202",
+            "3_1986209316173680640",
+            "3_1986209316165353472",
+            "13_1986209316186320896"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1986209444515201240",
+        "created_at": "2025-11-05T23:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T00:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986209444515201240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfnYRwsdti",
+              "end": 79,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1986209444515201240/video/1",
+              "media_key": "3_1986209316169523202",
+              "start": 56,
+              "url": "https://t.co/XfnYRwsdti"
+            },
+            {
+              "display_url": "pic.x.com/XfnYRwsdti",
+              "end": 79,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1986209444515201240/video/1",
+              "media_key": "3_1986209316173680640",
+              "start": 56,
+              "url": "https://t.co/XfnYRwsdti"
+            },
+            {
+              "display_url": "pic.x.com/XfnYRwsdti",
+              "end": 79,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1986209444515201240/video/1",
+              "media_key": "3_1986209316165353472",
+              "start": 56,
+              "url": "https://t.co/XfnYRwsdti"
+            },
+            {
+              "display_url": "pic.x.com/XfnYRwsdti",
+              "end": 79,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1986209444515201240/video/1",
+              "media_key": "13_1986209316186320896",
+              "start": 56,
+              "url": "https://t.co/XfnYRwsdti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986209444515201240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上要搬家到重庆了 \n到了重庆之后如果能找到本地推友的话松精心准备的原味捏\n还有欢迎重庆的推友要一起来找我玩哦 https://t.co/XfnYRwsdti"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜🚪58 尽量都会回复｜169 42.5kg｜b表演跟b边缘能不能去死啊我草｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "misakixyg"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976516194791460864/1260YPVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4584,
+          "following_count": 18,
+          "like_count": 341,
+          "listed_count": 14,
+          "media_count": 143,
+          "tweet_count": 574
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      }
+    ]
+  }
+}

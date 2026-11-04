@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1910903543948853593",
+    "created_at": "2025-04-12T12:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T13:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911041167304843615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1271512602145730560",
+          "start": 0,
+          "username": "TATP222"
+        },
+        {
+          "end": 19,
+          "id": "1431306628683366401",
+          "start": 9,
+          "username": "zhileiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911041167304843615",
+    "in_reply_to_user_id": "1271512602145730560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911038129026580704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TATP222 @zhileiqwq ntr大师➕1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1910903543948853593",
+        "created_at": "2025-04-12T12:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T13:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911041167304843615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1271512602145730560",
+              "start": 0,
+              "username": "TATP222"
+            },
+            {
+              "end": 19,
+              "id": "1431306628683366401",
+              "start": 9,
+              "username": "zhileiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911041167304843615",
+        "in_reply_to_user_id": "1271512602145730560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911038129026580704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TATP222 @zhileiqwq ntr大师➕1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271512602145730560",
+        "conversation_id": "1910903543948853593",
+        "created_at": "2025-04-12T12:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T13:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911038129026580704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            },
+            {
+              "end": 24,
+              "id": "1431306628683366401",
+              "start": 14,
+              "username": "zhileiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911038129026580704",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910903543948853593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao @zhileiqwq 只能两个人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜好东西都在亮点里哦｜没有🚪 尽量都会回复｜169 45kg｜最好的女儿@misakixyg｜唯一的🥰人@zhileiqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "misakixyg"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "zhileiqwq"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2684,
+          "following_count": 6,
+          "like_count": 276,
+          "listed_count": 5,
+          "media_count": 77,
+          "tweet_count": 329
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵 持证含（？）/友跨顺男/收破烂的/maimai dx/摄影器材/想拍小姐姐/软件工程/电脑维修/摩托车/OVERD***/魔改硬件/ADHD/拆机/图形计算器/Ti/网络设备/SSD/LLer/火车迷/麦当劳/mc原版/化学已退坑/不键政",
+        "id": "1271512602145730560",
+        "location": "Fujian",
+        "name": "可能不是银喵",
+        "pinned_tweet_id": "1895565057553219994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627367369629929472/gMIeTm7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 711,
+          "like_count": 13315,
+          "listed_count": 4,
+          "media_count": 428,
+          "tweet_count": 2399
+        },
+        "username": "TATP222",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T17:24:33.000Z",
+        "description": "今年srs已预订🏳️‍⚧️/❤️@xiaoyuzhiyao/161cm50kg是萝莉 / 看到可爱脚脚走不动道 足控 / 门槛随意，一起聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "xiaoyuzhiyao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zhileiqwq",
+                "end": 23,
+                "expanded_url": "https://t.me/zhileiqwq",
+                "start": 0,
+                "url": "https://t.co/gtT5mykbnf"
+              }
+            ]
+          }
+        },
+        "id": "1431306628683366401",
+        "location": "半人马座a",
+        "name": "🏳️‍⚧️芷蕾QWQ🍥",
+        "pinned_tweet_id": "1895402857714872693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909975866991611904/oxbuSMVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6966,
+          "following_count": 877,
+          "like_count": 3876,
+          "listed_count": 18,
+          "media_count": 151,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/gtT5mykbnf",
+        "username": "zhileiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

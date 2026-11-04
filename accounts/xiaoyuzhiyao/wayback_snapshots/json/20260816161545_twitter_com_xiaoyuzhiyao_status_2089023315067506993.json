@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089023307920408577",
+        "3_2089023307937157120",
+        "3_2089023307924602880",
+        "3_2089023307920400384"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089023315067506993",
+    "created_at": "2026-08-16T16:15:45.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T17:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089023315067506993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bWHrgrP4wl",
+          "end": 80,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2089023315067506993/photo/1",
+          "media_key": "3_2089023307920408577",
+          "start": 57,
+          "url": "https://t.co/bWHrgrP4wl"
+        },
+        {
+          "display_url": "pic.x.com/bWHrgrP4wl",
+          "end": 80,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2089023315067506993/photo/1",
+          "media_key": "3_2089023307937157120",
+          "start": 57,
+          "url": "https://t.co/bWHrgrP4wl"
+        },
+        {
+          "display_url": "pic.x.com/bWHrgrP4wl",
+          "end": 80,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2089023315067506993/photo/1",
+          "media_key": "3_2089023307924602880",
+          "start": 57,
+          "url": "https://t.co/bWHrgrP4wl"
+        },
+        {
+          "display_url": "pic.x.com/bWHrgrP4wl",
+          "end": 80,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2089023315067506993/photo/1",
+          "media_key": "3_2089023307920400384",
+          "start": 57,
+          "url": "https://t.co/bWHrgrP4wl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089023315067506993",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089023307920408577"
+      },
+      {
+        "media_key": "3_2089023307937157120"
+      },
+      {
+        "media_key": "3_2089023307924602880"
+      },
+      {
+        "media_key": "3_2089023307920400384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "代朋友发帖 推特只能发四张图 想要完整的私聊\n\n这里是宵宵，对于近期的一些事我有必要进行解释：\n转发抽人转账52\n1.关于同居，这是暑假开始没多久就发生了的一件事因为我自己的家庭原因还有我个人的原因我选择了离家出走，我父母知情并且拜托了一个年纪比我大的哥哥帮忙照顾我，他的父母也知情我认为我的家庭和我妈的关系不需要一些外人来评价谢谢\n2.关于鸟酱，他并不是什么都没有做我才会删掉他的请不要塑造清高人设以及他送的礼物但我没有逼着他要过全都情出自愿并且现在我要与他分割的时候他让我把东西转换成钱转给他我也同意了\n3.关于pansari，他是我的前任我与他谈恋爱是很早以前的事情，在刚谈上没多久的时候他与他的音游群里的mtf讨论我并且那些mtf让他远离地雷女他也进行了附和并且说猎奇以及其他背刺，并且不承认自己与女生谈过直到我知道后他才承认 所谓的8000是他说想见我的所有车费和飞机票 并未给我转过账甚至在他没钱的时候我尽力给他点外卖以及一些我给他的转账\n4.我的所有交往中含利益的只有鸟酱和另一个男性，鸟酱的在第二条我已经解释了他想让我把送的礼物换成转账还给他我同意并且协商一致了 另一个全程只有55的我也在很早之前就已经转过了\n5.几周前发生这些的时候我已经承认了我说话需要加强边界感的问题以及划清界限，对方均为成年人我也认为双方都有错 在交往过程中我有刻意划清关系如下图\n希望所有人理性看待这件事并且不要恶意丑化并且抹黑 \n转发抽人转账52希望多多转发！！！"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "代朋友发帖 推特只能发四张图 想要完整的私聊\n\n这里是宵宵，对于近期的一些事我有必要进行解释：\n转发抽人转账52 https://t.co/bWHrgrP4wl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089023307920408577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2zoWQbgAEIhpU.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089023307937157120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2zoWUbEAAYvHK.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089023307924602880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2zoWRbgAA7fA9.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089023307920400384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2zoWQbYAAmHP_.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089023307920408577",
+            "3_2089023307937157120",
+            "3_2089023307924602880",
+            "3_2089023307920400384"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089023315067506993",
+        "created_at": "2026-08-16T16:15:45.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T17:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089023315067506993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWHrgrP4wl",
+              "end": 80,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2089023315067506993/photo/1",
+              "media_key": "3_2089023307920408577",
+              "start": 57,
+              "url": "https://t.co/bWHrgrP4wl"
+            },
+            {
+              "display_url": "pic.x.com/bWHrgrP4wl",
+              "end": 80,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2089023315067506993/photo/1",
+              "media_key": "3_2089023307937157120",
+              "start": 57,
+              "url": "https://t.co/bWHrgrP4wl"
+            },
+            {
+              "display_url": "pic.x.com/bWHrgrP4wl",
+              "end": 80,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2089023315067506993/photo/1",
+              "media_key": "3_2089023307924602880",
+              "start": 57,
+              "url": "https://t.co/bWHrgrP4wl"
+            },
+            {
+              "display_url": "pic.x.com/bWHrgrP4wl",
+              "end": 80,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2089023315067506993/photo/1",
+              "media_key": "3_2089023307920400384",
+              "start": 57,
+              "url": "https://t.co/bWHrgrP4wl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089023315067506993",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089023307920408577"
+          },
+          {
+            "media_key": "3_2089023307937157120"
+          },
+          {
+            "media_key": "3_2089023307924602880"
+          },
+          {
+            "media_key": "3_2089023307920400384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "代朋友发帖 推特只能发四张图 想要完整的私聊\n\n这里是宵宵，对于近期的一些事我有必要进行解释：\n转发抽人转账52\n1.关于同居，这是暑假开始没多久就发生了的一件事因为我自己的家庭原因还有我个人的原因我选择了离家出走，我父母知情并且拜托了一个年纪比我大的哥哥帮忙照顾我，他的父母也知情我认为我的家庭和我妈的关系不需要一些外人来评价谢谢\n2.关于鸟酱，他并不是什么都没有做我才会删掉他的请不要塑造清高人设以及他送的礼物但我没有逼着他要过全都情出自愿并且现在我要与他分割的时候他让我把东西转换成钱转给他我也同意了\n3.关于pansari，他是我的前任我与他谈恋爱是很早以前的事情，在刚谈上没多久的时候他与他的音游群里的mtf讨论我并且那些mtf让他远离地雷女他也进行了附和并且说猎奇以及其他背刺，并且不承认自己与女生谈过直到我知道后他才承认 所谓的8000是他说想见我的所有车费和飞机票 并未给我转过账甚至在他没钱的时候我尽力给他点外卖以及一些我给他的转账\n4.我的所有交往中含利益的只有鸟酱和另一个男性，鸟酱的在第二条我已经解释了他想让我把送的礼物换成转账还给他我同意并且协商一致了 另一个全程只有55的我也在很早之前就已经转过了\n5.几周前发生这些的时候我已经承认了我说话需要加强边界感的问题以及划清界限，对方均为成年人我也认为双方都有错 在交往过程中我有刻意划清关系如下图\n希望所有人理性看待这件事并且不要恶意丑化并且抹黑 \n转发抽人转账52希望多多转发！！！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "代朋友发帖 推特只能发四张图 想要完整的私聊\n\n这里是宵宵，对于近期的一些事我有必要进行解释：\n转发抽人转账52 https://t.co/bWHrgrP4wl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "小男娘｜心/生理性别女｜xxy 但是手术了\n好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜172 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n理学心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2089023315067506993",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767820111602503680/1780900504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082082719748829184/BjzF9OzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4414,
+          "following_count": 29,
+          "like_count": 388,
+          "listed_count": 14,
+          "media_count": 191,
+          "tweet_count": 714
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2017558996295815521",
+    "created_at": "2026-02-01T12:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T13:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017945881471836442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1431306628683366401",
+          "start": 0,
+          "username": "xinyuQWQww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017945881471836442",
+    "in_reply_to_user_id": "1431306628683366401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017558996295815521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinyuQWQww 门槛怎么这么贵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1764,
+        "media_key": "3_2017558982983094275",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__PNJ4bEAMLmmD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2017558996295815521",
+        "created_at": "2026-02-01T12:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017945881471836442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1431306628683366401",
+              "start": 0,
+              "username": "xinyuQWQww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017945881471836442",
+        "in_reply_to_user_id": "1431306628683366401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017558996295815521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinyuQWQww 门槛怎么这么贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017558982983094275"
+          ]
+        },
+        "author_id": "1431306628683366401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017558996295815521",
+        "created_at": "2026-01-31T11:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T12:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017558996295815521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8cM6vFq1m",
+              "end": 27,
+              "expanded_url": "https://x.com/xinyuQWQww/status/2017558996295815521/photo/1",
+              "media_key": "3_2017558982983094275",
+              "start": 4,
+              "url": "https://t.co/n8cM6vFq1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017558996295815521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫饭～ https://t.co/n8cM6vFq1m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜实习圆角",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013909089936703488/fZiSnWgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4480,
+          "following_count": 21,
+          "like_count": 362,
+          "listed_count": 16,
+          "media_count": 158,
+          "tweet_count": 616
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T17:24:33.000Z",
+        "description": "srs，声带术后/ mtf小萝莉 / 161cm52kg / 🚪48 / 有好感可以敲小窗❤️欢迎找我聊天 / 喜欢可爱的男孩子或mtf / cs在读～热爱旅行～电竞电影演唱会～fps中手",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fengpimaomao",
+                "end": 23,
+                "expanded_url": "http://t.me/fengpimaomao",
+                "start": 0,
+                "url": "https://t.co/2uWgoENivC"
+              }
+            ]
+          }
+        },
+        "id": "1431306628683366401",
+        "location": "广州",
+        "name": "星雨QWQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909975866991611904/oxbuSMVa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7555,
+          "following_count": 885,
+          "like_count": 3730,
+          "listed_count": 22,
+          "media_count": 154,
+          "tweet_count": 1985
+        },
+        "url": "https://t.co/2uWgoENivC",
+        "username": "xinyuQWQww",
+        "verified": false
+      }
+    ]
+  }
+}

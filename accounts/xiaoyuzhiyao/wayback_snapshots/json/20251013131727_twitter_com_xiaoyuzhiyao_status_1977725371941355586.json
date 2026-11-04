@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1977621701451231655",
+    "created_at": "2025-10-13T13:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T14:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977725371941355586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1530832862093594624",
+          "start": 0,
+          "username": "whwzfyl"
+        },
+        {
+          "end": 25,
+          "id": "1920522677468704768",
+          "start": 9,
+          "username": "RhodesAmiy38560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977725371941355586",
+    "in_reply_to_user_id": "1530832862093594624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977724251126763950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whwzfyl @RhodesAmiy38560 指个路马上约两个 征服她们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1977621701451231655",
+        "created_at": "2025-10-13T13:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T14:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977725371941355586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1530832862093594624",
+              "start": 0,
+              "username": "whwzfyl"
+            },
+            {
+              "end": 25,
+              "id": "1920522677468704768",
+              "start": 9,
+              "username": "RhodesAmiy38560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977725371941355586",
+        "in_reply_to_user_id": "1530832862093594624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977724251126763950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whwzfyl @RhodesAmiy38560 指个路马上约两个 征服她们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530832862093594624",
+        "conversation_id": "1977621701451231655",
+        "created_at": "2025-10-13T13:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T14:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977724251126763950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920522677468704768",
+              "start": 0,
+              "username": "RhodesAmiy38560"
+            },
+            {
+              "end": 30,
+              "id": "1767820111602503680",
+              "start": 17,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977724251126763950",
+        "in_reply_to_user_id": "1920522677468704768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977714759039439017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RhodesAmiy38560 @xiaoyuzhiyao 这东西不是一直存在的吗朝阳区有百子湾房山区有朱岗子亦庄那有马驹桥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜🚪58 尽量都会回复｜169 42.5kg｜b表演跟b边缘能不能去死啊我草｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "misakixyg"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976516194791460864/1260YPVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3655,
+          "following_count": 14,
+          "like_count": 335,
+          "listed_count": 9,
+          "media_count": 135,
+          "tweet_count": 553
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-29T08:46:45.000Z",
+        "description": "",
+        "id": "1530832862093594624",
+        "name": "红卫兵王洪文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919586679247237120/CKUzV4_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 140,
+          "like_count": 11370,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 2995
+        },
+        "username": "whwzfyl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T16:54:40.000Z",
+        "description": "",
+        "id": "1920522677468704768",
+        "location": "TOKYO",
+        "name": "Amiya RHODES",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920522753343696898/QIUjyVGP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 254,
+          "like_count": 112,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 361
+        },
+        "username": "RhodesAmiy38560",
+        "verified": false
+      }
+    ]
+  }
+}

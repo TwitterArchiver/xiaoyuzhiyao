@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2063878177550950400",
+        "13_2063879233320214529",
+        "13_2063878177555144704",
+        "3_2063878177538351105"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063879302765281482",
+    "created_at": "2026-06-08T07:02:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:59:07.000Z",
+      "edits_remaining": 3,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063878470913118556",
+      "2063878830075600897",
+      "2063879302765281482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GyxyHUGQZS",
+          "end": 89,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2063879302765281482/video/1",
+          "media_key": "13_2063878177550950400",
+          "start": 66,
+          "url": "https://t.co/GyxyHUGQZS"
+        },
+        {
+          "display_url": "pic.x.com/GyxyHUGQZS",
+          "end": 89,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2063879302765281482/video/1",
+          "media_key": "13_2063879233320214529",
+          "start": 66,
+          "url": "https://t.co/GyxyHUGQZS"
+        },
+        {
+          "display_url": "pic.x.com/GyxyHUGQZS",
+          "end": 89,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2063879302765281482/video/1",
+          "media_key": "13_2063878177555144704",
+          "start": 66,
+          "url": "https://t.co/GyxyHUGQZS"
+        },
+        {
+          "display_url": "pic.x.com/GyxyHUGQZS",
+          "end": 89,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/2063879302765281482/video/1",
+          "media_key": "3_2063878177538351105",
+          "start": 66,
+          "url": "https://t.co/GyxyHUGQZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063879302765281482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "找个没人的海边，听听海浪，吹吹海风。\n把所有焦虑都挂在吊床里，在夏天里短暂地逃跑一下 🍃✨\n\n祝看到这条推文的你，今天也有好心情。 https://t.co/GyxyHUGQZS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063878470913118556].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063878470913118556",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063878470913118556"
+    },
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2063878830075600897].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2063878830075600897",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2063878830075600897"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4300,
+        "height": 3840,
+        "media_key": "13_2063878177550950400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063878177550950400/img/tIFbg4MYib9i153J.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063878177550950400/vid/avc1/480x852/tPH8Mao2AOqM6JUH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063878177550950400/vid/avc1/720x1280/7WI0XJgL7gzk8Zfu.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063878177550950400/vid/avc1/320x568/q3QLMy_VmnQ4lR13.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063878177550950400/pl/dp431SOziNtjIk0S.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063878177550950400/vid/avc1/1080x1920/t6j2zTJ_d7jbT1Td.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063878177550950400/vid/avc1/2160x3840/fdHIvNorQzIPX2Sk.mp4"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "duration_ms": 10500,
+        "height": 1920,
+        "media_key": "13_2063879233320214529",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063879233320214529/img/4macZHAJe-2k0A98.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063879233320214529/vid/avc1/720x1280/fU0YKf9P-p1sUFDl.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063879233320214529/vid/avc1/1080x1920/vlC6A81Y0mFlFk3V.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063879233320214529/vid/avc1/480x852/TOcXQ0tq5QUboKAZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063879233320214529/pl/ogpTd0jGmqqMWayL.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063879233320214529/vid/avc1/320x568/mxGz63n7_HSLKO43.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 21433,
+        "height": 3840,
+        "media_key": "13_2063878177555144704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063878177555144704/img/Snl6W_uyjXCe83U5.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063878177555144704/vid/avc1/1080x1920/Ua2s4Xzz4hk5AZ-Y.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063878177555144704/vid/avc1/2160x3840/AhoQqJiBdFv9VZz-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063878177555144704/vid/avc1/480x852/Tmfxs-hfv0nNhpp7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063878177555144704/vid/avc1/720x1280/CC5kyVam58kAMcrc.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063878177555144704/vid/avc1/320x568/RJp5mCPKBCCkXT24.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063878177555144704/pl/MDCXyFamCXxPdxFc.m3u8"
+          }
+        ],
+        "width": 2160
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063878177538351105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKReRH_aoAESdoD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063878177550950400",
+            "13_2063879233320214529",
+            "13_2063878177555144704",
+            "3_2063878177538351105"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063879302765281482",
+        "created_at": "2026-06-08T07:02:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:59:07.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063878470913118556",
+          "2063878830075600897",
+          "2063879302765281482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GyxyHUGQZS",
+              "end": 89,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2063879302765281482/video/1",
+              "media_key": "13_2063878177550950400",
+              "start": 66,
+              "url": "https://t.co/GyxyHUGQZS"
+            },
+            {
+              "display_url": "pic.x.com/GyxyHUGQZS",
+              "end": 89,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2063879302765281482/video/1",
+              "media_key": "13_2063879233320214529",
+              "start": 66,
+              "url": "https://t.co/GyxyHUGQZS"
+            },
+            {
+              "display_url": "pic.x.com/GyxyHUGQZS",
+              "end": 89,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2063879302765281482/video/1",
+              "media_key": "13_2063878177555144704",
+              "start": 66,
+              "url": "https://t.co/GyxyHUGQZS"
+            },
+            {
+              "display_url": "pic.x.com/GyxyHUGQZS",
+              "end": 89,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/2063879302765281482/video/1",
+              "media_key": "3_2063878177538351105",
+              "start": 66,
+              "url": "https://t.co/GyxyHUGQZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063879302765281482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找个没人的海边，听听海浪，吹吹海风。\n把所有焦虑都挂在吊床里，在夏天里短暂地逃跑一下 🍃✨\n\n祝看到这条推文的你，今天也有好心情。 https://t.co/GyxyHUGQZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Zhaoqing, Guangdong Province, China",
+              "geo": {
+                "coordinates": [
+                  112.45972,
+                  23.05116
+                ],
+                "type": "Point"
+              },
+              "locality": "Zhaoqing",
+              "region": "Guangdong Province"
+            }
+          ]
+        },
+        "description": "好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜169 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013909089936703488/fZiSnWgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4395,
+          "following_count": 23,
+          "like_count": 380,
+          "listed_count": 15,
+          "media_count": 173,
+          "tweet_count": 664
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      }
+    ]
+  }
+}

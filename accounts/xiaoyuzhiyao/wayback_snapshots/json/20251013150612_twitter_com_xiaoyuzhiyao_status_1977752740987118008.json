@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1977621701451231655",
+    "created_at": "2025-10-13T15:06:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T16:06:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977752740987118008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790936706650435584",
+          "start": 0,
+          "username": "shengu12135"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977752740987118008",
+    "in_reply_to_user_id": "1790936706650435584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977747205244010574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengu12135 你都不想我了是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1977621701451231655",
+        "created_at": "2025-10-13T15:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T16:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977752740987118008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790936706650435584",
+              "start": 0,
+              "username": "shengu12135"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977752740987118008",
+        "in_reply_to_user_id": "1790936706650435584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977747205244010574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengu12135 你都不想我了是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790936706650435584",
+        "conversation_id": "1977621701451231655",
+        "created_at": "2025-10-13T14:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T15:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977747205244010574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977747205244010574",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977621701451231655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 你为什么老是喜欢抽细支的，我买两条可以吸引你吗？只抽你嘴里的烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜🚪58 尽量都会回复｜169 42.5kg｜b表演跟b边缘能不能去死啊我草｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "misakixyg"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976516194791460864/1260YPVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3709,
+          "following_count": 14,
+          "like_count": 335,
+          "listed_count": 10,
+          "media_count": 135,
+          "tweet_count": 554
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-16T02:46:07.000Z",
+        "description": "战雷玩家",
+        "id": "1790936706650435584",
+        "location": "广州",
+        "name": "神谷－发呆的人",
+        "pinned_tweet_id": "1920527479778787537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791531179512074248/PY9SXYn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 1940,
+          "like_count": 1912,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 233
+        },
+        "username": "shengu12135",
+        "verified": false
+      }
+    ]
+  }
+}

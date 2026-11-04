@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1904793003275018240"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "conversation_id": "1904792408292024369",
+    "created_at": "2025-03-26T07:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T08:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904793010145223066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 52,
+          "id": "1874402147103838208",
+          "start": 38,
+          "username": "wanwanblaster"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nO25YIm3Sb",
+          "end": 76,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1904793010145223066/photo/1",
+          "media_key": "3_1904793003275018240",
+          "start": 53,
+          "url": "https://t.co/nO25YIm3Sb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904793010145223066",
+    "in_reply_to_user_id": "1767820111602503680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 52,
+            "id": "1874402147103838208",
+            "start": 38,
+            "username": "wanwanblaster"
+          }
+        ]
+      },
+      "text": "希望大家能稍微看懂一点，我没有说我不是恶人。不要去攻击其他人吧，我是罪人，但@wanwanblaster 我不想跟你争执，你也不应该撇清楚自己所有的关系。难道你忘了你出轨时候的抱歉，我生气的一拳把自己的手干出血来吗。如果大家感兴趣，我可以做一个客观一点的澄清声明，我自己的事情我都会挂出来，对错你们评判。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904792408292024369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "希望大家能稍微看懂一点，我没有说我不是恶人。不要去攻击其他人吧，我是罪人，但@wanwanblaster https://t.co/nO25YIm3Sb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1866,
+        "media_key": "3_1904793003275018240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm8vJPrbYAAfsZY.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904793003275018240"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "conversation_id": "1904792408292024369",
+        "created_at": "2025-03-26T07:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T08:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904793010145223066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 52,
+              "id": "1874402147103838208",
+              "start": 38,
+              "username": "wanwanblaster"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nO25YIm3Sb",
+              "end": 76,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1904793010145223066/photo/1",
+              "media_key": "3_1904793003275018240",
+              "start": 53,
+              "url": "https://t.co/nO25YIm3Sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904793010145223066",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 52,
+                "id": "1874402147103838208",
+                "start": 38,
+                "username": "wanwanblaster"
+              }
+            ]
+          },
+          "text": "希望大家能稍微看懂一点，我没有说我不是恶人。不要去攻击其他人吧，我是罪人，但@wanwanblaster 我不想跟你争执，你也不应该撇清楚自己所有的关系。难道你忘了你出轨时候的抱歉，我生气的一拳把自己的手干出血来吗。如果大家感兴趣，我可以做一个客观一点的澄清声明，我自己的事情我都会挂出来，对错你们评判。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904792408292024369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望大家能稍微看懂一点，我没有说我不是恶人。不要去攻击其他人吧，我是罪人，但@wanwanblaster https://t.co/nO25YIm3Sb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1904792408292024369",
+        "created_at": "2025-03-26T07:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T08:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904792408292024369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 85,
+              "id": "1874402147103838208",
+              "start": 71,
+              "username": "wanwanblaster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904792408292024369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 85,
+                "id": "1874402147103838208",
+                "start": 71,
+                "username": "wanwanblaster"
+              }
+            ]
+          },
+          "text": "不想多做解释，在我家里吃喝都是我供的。我确实有恶的地方，你也付出了很多。比如说你说的三万块钱 有一个是你家里送我的镯子，当时卖掉的理由很清楚。@wanwanblaster 并没有能力吃饱饭了 在我这里每餐 每个住的都是我供的。卖掉之后我承认我用掉了一些但大部分gei他自己吃了。\n以下附上我前阵子分手的时候写的信"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想多做解释，在我家里吃喝都是我供的。我确实有恶的地方，你也付出了很多。比如说你说的三万块钱 有一个是你家里送我的镯子，当时卖掉的理由很清楚。@wanwanblaster 并没有能力吃饱饭了 在我这里每餐 每个住的都是我供的。卖掉之后我承认我用掉了一些但大部分gei他自己吃了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "没有🚪 尽量都会回复｜169 43kg 男娘小雨是也｜唯一的🥰人@zhileiqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "zhileiqwq"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "pinned_tweet_id": "1873401816970592645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873256786213650434/zACAyapH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 3,
+          "like_count": 261,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 303
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T10:28:02.000Z",
+        "description": "世界破破烂烂 丸丸缝缝补补 ｜ 淡圈专心cs ｜属性brat ｜mtx小证含糖 ｜丸丸爱你们所有人 mua",
+        "id": "1874402147103838208",
+        "location": "Atlanta, GA",
+        "name": "丸丸",
+        "pinned_tweet_id": "1904631538928763012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902395991061602304/kx1zCiKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 72,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 197
+        },
+        "username": "wanwanblaster",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1969644365854490874",
+    "created_at": "2025-09-22T12:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T13:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970110288868622758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1571032715570606080",
+          "start": 0,
+          "username": "ptinkunglng1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970110288868622758",
+    "in_reply_to_user_id": "1571032715570606080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969828942061379632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ptinkunglng1 可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1969644365854490874",
+        "created_at": "2025-09-22T12:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T13:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970110288868622758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1571032715570606080",
+              "start": 0,
+              "username": "ptinkunglng1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970110288868622758",
+        "in_reply_to_user_id": "1571032715570606080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969828942061379632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ptinkunglng1 可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571032715570606080",
+        "conversation_id": "1969644365854490874",
+        "created_at": "2025-09-21T18:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T19:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969828942061379632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969828942061379632",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969644365854490874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 不用送，你只要多拍批照发就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜🚪58  尽量都会回复｜169 42.5kg｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "misakixyg"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3206,
+          "following_count": 8,
+          "like_count": 321,
+          "listed_count": 8,
+          "media_count": 121,
+          "tweet_count": 514
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-17T07:06:24.000Z",
+        "description": "此账号只关注男人（染色体xy），作为一座防止误冲同性的赛博灯塔。我会尽大量辨男经验全力识别，如果染色体为xx却被关注的女性:抱歉，请指示我取关。",
+        "id": "1571032715570606080",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "黑崎 蜜芽",
+        "pinned_tweet_id": "1965846788923076831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732284283488980992/L184aP7R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 430,
+          "like_count": 312,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 659
+        },
+        "username": "ptinkunglng1",
+        "verified": false
+      }
+    ]
+  }
+}

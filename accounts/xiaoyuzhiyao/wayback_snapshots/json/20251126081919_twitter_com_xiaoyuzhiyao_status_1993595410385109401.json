@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1993326980406944047",
+    "created_at": "2025-11-26T08:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T09:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993595410385109401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1464881472964382732",
+          "start": 0,
+          "username": "mengguyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993595410385109401",
+    "in_reply_to_user_id": "1464881472964382732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993326980406944047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengguyi 在现场"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993326969107496965",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6m4UTrbwAUCFxo.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993326969132662784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6m4UTxbwAA3vDq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1993326969086504960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6m4UTmbcAAFUSn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1993326980406944047",
+        "created_at": "2025-11-26T08:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993595410385109401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1464881472964382732",
+              "start": 0,
+              "username": "mengguyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993595410385109401",
+        "in_reply_to_user_id": "1464881472964382732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993326980406944047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengguyi 在现场"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993326969107496965",
+            "3_1993326969132662784",
+            "3_1993326969086504960"
+          ]
+        },
+        "author_id": "1464881472964382732",
+        "conversation_id": "1993326980406944047",
+        "created_at": "2025-11-25T14:32:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:32:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993326980406944047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v29KsbnnNd",
+              "end": 31,
+              "expanded_url": "https://x.com/mengguyi/status/1993326980406944047/photo/1",
+              "media_key": "3_1993326969107496965",
+              "start": 8,
+              "url": "https://t.co/v29KsbnnNd"
+            },
+            {
+              "display_url": "pic.x.com/v29KsbnnNd",
+              "end": 31,
+              "expanded_url": "https://x.com/mengguyi/status/1993326980406944047/photo/1",
+              "media_key": "3_1993326969132662784",
+              "start": 8,
+              "url": "https://t.co/v29KsbnnNd"
+            },
+            {
+              "display_url": "pic.x.com/v29KsbnnNd",
+              "end": 31,
+              "expanded_url": "https://x.com/mengguyi/status/1993326980406944047/photo/1",
+              "media_key": "3_1993326969086504960",
+              "start": 8,
+              "url": "https://t.co/v29KsbnnNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993326980406944047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 18833,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "救护车送急诊了 https://t.co/v29KsbnnNd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜@Saturney_Erdong｜ 实习圆角",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 63,
+                "username": "Saturney_Erdong"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976516194791460864/1260YPVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4645,
+          "following_count": 20,
+          "like_count": 352,
+          "listed_count": 14,
+          "media_count": 150,
+          "tweet_count": 597
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-28T08:59:07.000Z",
+        "description": "GNU/Linux用户｜超业余级的 Rust 开发者｜20 y.o.｜个人TG: https://t.co/sId7D2q6E9｜GitHub: https://t.co/H0qW1rti7X｜可也以叫我安然或者孟安然｜MTF🏳️‍⚧️｜实习圆角｜Nya! 若账号被限制请 @mengguyi2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "mengguyi2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mengguyi",
+                "end": 64,
+                "expanded_url": "https://t.me/mengguyi",
+                "start": 41,
+                "url": "https://t.co/sId7D2q6E9"
+              },
+              {
+                "display_url": "github.com/mengguyi",
+                "end": 96,
+                "expanded_url": "https://github.com/mengguyi",
+                "start": 73,
+                "url": "https://t.co/H0qW1rti7X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengguyi.com",
+                "end": 23,
+                "expanded_url": "https://mengguyi.com",
+                "start": 0,
+                "url": "https://t.co/TS2nZD096q"
+              }
+            ]
+          }
+        },
+        "id": "1464881472964382732",
+        "location": "Macau",
+        "name": "孟古一🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984652872320237573/6k5K4wVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3190,
+          "following_count": 1201,
+          "like_count": 45951,
+          "listed_count": 7,
+          "media_count": 1009,
+          "tweet_count": 4289
+        },
+        "url": "https://t.co/TS2nZD096q",
+        "username": "mengguyi",
+        "verified": true
+      }
+    ]
+  }
+}

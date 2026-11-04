@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969644357361000448",
+        "3_1969644357298110467"
+      ]
+    },
+    "author_id": "1767820111602503680",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1969644365854490874",
+    "created_at": "2025-09-21T06:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T07:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969644365854490874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1eo3Bqjtks",
+          "end": 38,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1969644365854490874/photo/1",
+          "media_key": "3_1969644357361000448",
+          "start": 15,
+          "url": "https://t.co/1eo3Bqjtks"
+        },
+        {
+          "display_url": "pic.x.com/1eo3Bqjtks",
+          "end": 38,
+          "expanded_url": "https://x.com/xiaoyuzhiyao/status/1969644365854490874/photo/1",
+          "media_key": "3_1969644357298110467",
+          "start": 15,
+          "url": "https://t.co/1eo3Bqjtks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969644365854490874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "等收到用过了 评论区抽两个送 https://t.co/1eo3Bqjtks"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969644357361000448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WVG35a4AAywnH.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1969644357298110467",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WVG3qbQAMvpry.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969644357361000448",
+            "3_1969644357298110467"
+          ]
+        },
+        "author_id": "1767820111602503680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969644365854490874",
+        "created_at": "2025-09-21T06:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969644365854490874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1eo3Bqjtks",
+              "end": 38,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1969644365854490874/photo/1",
+              "media_key": "3_1969644357361000448",
+              "start": 15,
+              "url": "https://t.co/1eo3Bqjtks"
+            },
+            {
+              "display_url": "pic.x.com/1eo3Bqjtks",
+              "end": 38,
+              "expanded_url": "https://x.com/xiaoyuzhiyao/status/1969644365854490874/photo/1",
+              "media_key": "3_1969644357298110467",
+              "start": 15,
+              "url": "https://t.co/1eo3Bqjtks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969644365854490874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等收到用过了 评论区抽两个送 https://t.co/1eo3Bqjtks"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜🚪58  尽量都会回复｜169 42.5kg｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "misakixyg"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3207,
+          "following_count": 8,
+          "like_count": 314,
+          "listed_count": 8,
+          "media_count": 121,
+          "tweet_count": 512
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      }
+    ]
+  }
+}

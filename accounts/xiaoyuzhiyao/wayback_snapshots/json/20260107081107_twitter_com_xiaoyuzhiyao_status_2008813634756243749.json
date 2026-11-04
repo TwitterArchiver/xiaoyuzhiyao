@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2008762964661465451",
+    "created_at": "2026-01-07T08:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T09:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008813634756243749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1779925294041944064",
+          "start": 0,
+          "username": "UBOATU511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008813634756243749",
+    "in_reply_to_user_id": "1779925294041944064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008787635318518272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UBOATU511 真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2008762964661465451",
+        "created_at": "2026-01-07T08:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T09:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008813634756243749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1779925294041944064",
+              "start": 0,
+              "username": "UBOATU511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008813634756243749",
+        "in_reply_to_user_id": "1779925294041944064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008787635318518272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UBOATU511 真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779925294041944064",
+        "conversation_id": "2008762964661465451",
+        "created_at": "2026-01-07T06:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T07:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008787635318518272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008787635318518272",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008762964661465451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 真的吗我不信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜实习圆角",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976516194791460864/1260YPVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4517,
+          "following_count": 19,
+          "like_count": 355,
+          "listed_count": 16,
+          "media_count": 152,
+          "tweet_count": 605
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-15T17:30:45.000Z",
+        "description": "PMSAgent：511大尉  状态：活跃中\n\n正在启航 再次前往“巴达维亚”",
+        "id": "1779925294041944064",
+        "location": "Batavia",
+        "name": "UBOATU511",
+        "pinned_tweet_id": "2007551422972535075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779926224762269696/6lcPXo4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 2016,
+          "like_count": 13292,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 3866
+        },
+        "username": "UBOATU511",
+        "verified": false
+      }
+    ]
+  }
+}

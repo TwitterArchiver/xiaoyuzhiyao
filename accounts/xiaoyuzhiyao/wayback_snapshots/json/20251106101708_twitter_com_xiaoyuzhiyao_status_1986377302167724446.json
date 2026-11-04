@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1986209444515201240",
+    "created_at": "2025-11-06T10:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T11:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986377302167724446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1165841701073612800",
+          "start": 0,
+          "username": "Kaede1145141919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986377302167724446",
+    "in_reply_to_user_id": "1165841701073612800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986269214496465076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaede1145141919 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1986209444515201240",
+        "created_at": "2025-11-06T10:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T11:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986377302167724446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1165841701073612800",
+              "start": 0,
+              "username": "Kaede1145141919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986377302167724446",
+        "in_reply_to_user_id": "1165841701073612800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986269214496465076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaede1145141919 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165841701073612800",
+        "conversation_id": "1986209444515201240",
+        "created_at": "2025-11-06T03:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T04:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986269214496465076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986269214496465076",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986209444515201240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 打了码都能认出sunnyduck。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "我觉得我是男娘因为这样相处起来会比较舒服｜🚪58 尽量都会回复｜169 42.5kg｜没有门槛的话 想做什么也可以直接私聊我｜希望有人记得我最好的女儿@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 98,
+                "start": 87,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976516194791460864/1260YPVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4580,
+          "following_count": 18,
+          "like_count": 344,
+          "listed_count": 14,
+          "media_count": 143,
+          "tweet_count": 577
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-26T04:21:44.000Z",
+        "description": "",
+        "id": "1165841701073612800",
+        "location": "Tokyo-to, Japan",
+        "name": "†かえで†",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897190125706113024/sFuWMque_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 535,
+          "like_count": 25786,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 113
+        },
+        "username": "Kaede1145141919",
+        "verified": false
+      }
+    ]
+  }
+}

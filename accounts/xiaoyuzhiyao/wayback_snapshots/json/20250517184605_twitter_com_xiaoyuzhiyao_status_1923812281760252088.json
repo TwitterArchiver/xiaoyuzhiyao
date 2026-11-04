@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1923489366854467937",
+    "created_at": "2025-05-17T18:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T19:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923812281760252088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1704113553337397248",
+          "start": 0,
+          "username": "ZSRX_YN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923812281760252088",
+    "in_reply_to_user_id": "1704113553337397248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923762452904411561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZSRX_YN 已阅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1923489366854467937",
+        "created_at": "2025-05-17T18:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T19:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923812281760252088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1704113553337397248",
+              "start": 0,
+              "username": "ZSRX_YN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923812281760252088",
+        "in_reply_to_user_id": "1704113553337397248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923762452904411561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZSRX_YN 已阅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704113553337397248",
+        "conversation_id": "1923489366854467937",
+        "created_at": "2025-05-17T15:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T16:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923762452904411561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767820111602503680",
+              "start": 0,
+              "username": "xiaoyuzhiyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923762452904411561",
+        "in_reply_to_user_id": "1767820111602503680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923489366854467937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuzhiyao 你还有初夜？不是早就夹不住💩才造的b，别yy自己了，垃圾货色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜ 没有🚪 尽量都会回复｜169 45kg｜最好的女儿@misakixyg｜唯一的🥰人@zhileiqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "misakixyg"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "zhileiqwq"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3048,
+          "following_count": 12,
+          "like_count": 307,
+          "listed_count": 6,
+          "media_count": 90,
+          "tweet_count": 425
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-19T12:41:55.000Z",
+        "description": "坐标0731长沙kiger，求求了找我买尾巴吧，b站:由乃的尾巴，暂时没有淘宝",
+        "id": "1704113553337397248",
+        "location": "长沙",
+        "name": "战术人型_由乃（卖尾巴版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887558693727997952/T3lKuUnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 144,
+          "like_count": 400,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 214
+        },
+        "username": "ZSRX_YN",
+        "verified": false
+      }
+    ]
+  }
+}

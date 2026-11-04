@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "1968111857648157006",
+    "created_at": "2025-09-17T02:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T03:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968146671042543709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1479730386431545346",
+          "start": 0,
+          "username": "YuKi520OwO"
+        },
+        {
+          "end": 23,
+          "id": "1598873184438083586",
+          "start": 12,
+          "username": "MuSHrO0ooM"
+        },
+        {
+          "end": 39,
+          "id": "1705934998673686528",
+          "start": 24,
+          "username": "KatoRosa220201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968146671042543709",
+    "in_reply_to_user_id": "1479730386431545346",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968118001263317155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuKi520OwO @MuSHrO0ooM @KatoRosa220201 我也想要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "1968111857648157006",
+        "created_at": "2025-09-17T02:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T03:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968146671042543709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1479730386431545346",
+              "start": 0,
+              "username": "YuKi520OwO"
+            },
+            {
+              "end": 23,
+              "id": "1598873184438083586",
+              "start": 12,
+              "username": "MuSHrO0ooM"
+            },
+            {
+              "end": 39,
+              "id": "1705934998673686528",
+              "start": 24,
+              "username": "KatoRosa220201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968146671042543709",
+        "in_reply_to_user_id": "1479730386431545346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968118001263317155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuKi520OwO @MuSHrO0ooM @KatoRosa220201 我也想要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479730386431545346",
+        "conversation_id": "1968111857648157006",
+        "created_at": "2025-09-17T01:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T02:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968118001263317155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1598873184438083586",
+              "start": 0,
+              "username": "MuSHrO0ooM"
+            },
+            {
+              "end": 27,
+              "id": "1705934998673686528",
+              "start": 12,
+              "username": "KatoRosa220201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968118001263317155",
+        "in_reply_to_user_id": "1598873184438083586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968111857648157006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuSHrO0ooM @KatoRosa220201 什么时候我能在浮光跃金见到你🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "男娘｜⚦｜🚪58  尽量都会回复｜169 42.5kg｜希望有人记得我最好的女儿@misakixyg｜@kasaikoxyg｜@Yuki520OwO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "misakixyg"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "kasaikoxyg"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Yuki520OwO"
+              }
+            ]
+          }
+        },
+        "id": "1767820111602503680",
+        "location": "机厅男厕所第一个隔间",
+        "name": "小雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909498465450967041/2qu_aeqO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3187,
+          "following_count": 8,
+          "like_count": 312,
+          "listed_count": 8,
+          "media_count": 119,
+          "tweet_count": 506
+        },
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-08T08:23:35.000Z",
+        "description": "呆呆的男娘(MTX)（中国から来た男の娘です、よろしくお願いします！）/日本語は勉強します、いま会話は難しいです、ごめんなさい！/二次元/美味しもの/可愛いもの/maimaidx/ENTP/雪が大好きです",
+        "id": "1479730386431545346",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "樱井🥺千雪🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1929498795588583863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953183788516950018/NafKutYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8688,
+          "following_count": 1087,
+          "like_count": 15422,
+          "listed_count": 15,
+          "media_count": 270,
+          "tweet_count": 1973
+        },
+        "username": "YuKi520OwO",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T02:54:22.000Z",
+        "description": "🚪88&同类免费/172cm/51kg/偏m/男娘/双性恋/infj，喜欢游戏，诗歌，月亮，听别人讲故事，如果你愿意，我可以成为很好的听众，蘑菇不会评论你，蘑菇只会静静听你说😶",
+        "id": "1598873184438083586",
+        "location": "北京",
+        "name": "玛诗如木",
+        "pinned_tweet_id": "1962777023711211889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932453550522515456/j1UCYhEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 169,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 727
+        },
+        "username": "MuSHrO0ooM",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T13:19:51.000Z",
+        "description": "北京/INFJ/处女座/被缚/养成系缚手/浮光屋招常驻绳师/欢迎私信\nLike the wind of the wilderness.",
+        "id": "1705934998673686528",
+        "name": "KatoRosa",
+        "pinned_tweet_id": "1959089048209039646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961294909786525696/aVy7whjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 295,
+          "like_count": 1577,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 513
+        },
+        "username": "KatoRosa220201",
+        "verified": false
+      }
+    ]
+  }
+}

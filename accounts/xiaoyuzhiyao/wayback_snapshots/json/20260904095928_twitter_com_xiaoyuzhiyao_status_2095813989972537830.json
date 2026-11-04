@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2095477334199672976",
+    "created_at": "2026-09-04T09:59:28.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T10:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095813989972537830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665304321066684416",
+          "start": 0,
+          "username": "OoOooo0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095813989972537830",
+    "in_reply_to_user_id": "1665304321066684416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095477334199672976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoOooo0518 程随便开"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095477327488765952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRShhuvaUAAq8SW.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2095477334199672976",
+        "created_at": "2026-09-04T09:59:28.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095813989972537830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665304321066684416",
+              "start": 0,
+              "username": "OoOooo0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095813989972537830",
+        "in_reply_to_user_id": "1665304321066684416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095477334199672976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoOooo0518 程随便开"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095477327488765952"
+          ]
+        },
+        "author_id": "1665304321066684416",
+        "conversation_id": "2095477334199672976",
+        "created_at": "2026-09-03T11:41:43.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095477334199672976"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "mtf"
+            },
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "trans"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "跨女"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "跨性别"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2CTnWFvulB",
+              "end": 102,
+              "expanded_url": "https://x.com/OoOooo0518/status/2095477334199672976/photo/1",
+              "media_key": "3_2095477327488765952",
+              "start": 79,
+              "url": "https://t.co/2CTnWFvulB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095477334199672976",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095477327488765952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2042,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#mtf #trans #跨女 #跨性别 #药娘\n下周一要去见程明医生了 不知道怎么才能开出易性症的诊断啊 有没有同类指导指导呜呜呜 我真的什么也不懂啊TT https://t.co/2CTnWFvulB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CN",
+              "full_name": "Guangyuan, Sichuan, China",
+              "geo": {
+                "coordinates": [
+                  105.823,
+                  32.44202
+                ],
+                "type": "Point"
+              },
+              "locality": "Guangyuan",
+              "region": "Sichuan"
+            }
+          ]
+        },
+        "description": "小男娘｜心/生理性别女｜xxy 但是手术了\n好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜172 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n理学心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2095813989972537830",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767820111602503680/1780900504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082082719748829184/BjzF9OzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4475,
+          "following_count": 29,
+          "like_count": 392,
+          "listed_count": 14,
+          "media_count": 197,
+          "tweet_count": 724
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 无证含糖 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹:@OE3IIGFQRQ9473｜28r/盒出云药愈美片65r/盒出普瑞巴林橙色(150mg)以及免费咨询药物推荐电报联系https://t.co/hleBBuHP7a或X私信 还有：你可以在下面的链接里尽情去寻找你想要的药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "OE3IIGFQRQ9473"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 126,
+                "expanded_url": "http://t.me/melody_tik",
+                "start": 103,
+                "url": "https://t.co/hleBBuHP7a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melodytik.github.io/overdose-and-d…",
+                "end": 23,
+                "expanded_url": "https://melodytik.github.io/overdose-and-drugs/",
+                "start": 0,
+                "url": "https://t.co/gVu7qbdlGJ"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2095801386340692343",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665304321066684416/1770916243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 346,
+          "like_count": 2811,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 1012
+        },
+        "url": "https://t.co/gVu7qbdlGJ",
+        "username": "OoOooo0518",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
