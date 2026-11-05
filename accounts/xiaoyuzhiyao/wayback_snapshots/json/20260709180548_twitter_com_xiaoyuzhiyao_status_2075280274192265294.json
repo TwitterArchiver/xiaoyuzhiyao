@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1767820111602503680",
+    "conversation_id": "2075280274192265294",
+    "created_at": "2026-07-09T18:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T19:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075280274192265294"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2075280274192265294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我理想的电脑形态应该是二合一全能本 性能不需要太强 但是要轻薄 我想想 大概就是我现在在用的Mac book变成二合一笔记本加上LTE跟触屏 重量控制在1.2kg 以内 那我大概就可以接着用五六年吧 但是它已经用了四年了现在已经不符合了，下一台电脑应该换什么呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767820111602503680",
+        "conversation_id": "2075280274192265294",
+        "created_at": "2026-07-09T18:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T19:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075280274192265294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075280274192265294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我理想的电脑形态应该是二合一全能本 性能不需要太强 但是要轻薄 我想想 大概就是我现在在用的Mac book变成二合一笔记本加上LTE跟触屏 重量控制在1.2kg 以内 那我大概就可以接着用五六年吧 但是它已经用了四年了现在已经不符合了，下一台电脑应该换什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-13T07:49:01.000Z",
+        "description": "好东西都在咱的亮点里哦｜我觉得我是男娘因为这样相处起来会比较舒服｜169 42.5kg｜\n没有门槛 有什么想聊的可以直接私聊我\n心理学毕业但是想当心理医生",
+        "id": "1767820111602503680",
+        "location": "重庆市",
+        "name": "小雨",
+        "pinned_tweet_id": "2064455743248711936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013909089936703488/fZiSnWgQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4418,
+          "following_count": 28,
+          "like_count": 379,
+          "listed_count": 13,
+          "media_count": 176,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "xiaoyuzhiyao",
+        "verified": true
+      }
+    ]
+  }
+}
